@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SketchUpSharp
 {
-    // adapted from from corecrt_wtime.h
+    // adapted from corecrt_wtime.h
     public struct tm
     {
         public int tm_sec;   // seconds after the minute - [0, 60] including leap second

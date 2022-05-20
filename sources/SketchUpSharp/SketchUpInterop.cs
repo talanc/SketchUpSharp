@@ -84,367 +84,306 @@ namespace SketchUpSharp
 
     public unsafe partial struct SUArcCurveRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUAttributeDictionaryRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUAxesRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUCameraRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUClassificationsRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUClassificationAttributeRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUClassificationInfoRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUComponentDefinitionRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUComponentInstanceRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUCurveRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDimensionRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDimensionLinearRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDimensionRadialRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDimensionStyleRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDrawingElementRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDynamicComponentInfoRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUDynamicComponentAttributeRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUEdgeRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUEdgeUseRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUEntitiesRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUEntityListRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUEntityListIteratorRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUEntityRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUFaceRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUFontRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUGeometryInputRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUGroupRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUGuideLineRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUGuidePointRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUImageRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUImageRepRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUInstancePathRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULayerRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULayerFolderRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULineStyleRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULineStylesRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULocationRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULoopInputRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SULoopRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUMaterialRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUMeshHelperRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUModelRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUOpeningRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUOptionsManagerRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUOptionsProviderRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUPolyline3dRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SURenderingOptionsRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUSceneRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUSchemaRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUSchemaTypeRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUSectionPlaneRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUSelectionRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUShadowInfoRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUStyleRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUStylesRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUTextRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUTextureRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUTextureWriterRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUTypedValueRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUUVHelperRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUVertexRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
@@ -553,10 +492,10 @@ namespace SketchUpSharp
         [NativeTypeName("size_t")]
         public nuint num_uv_coords;
 
-        [NativeTypeName("struct SUPoint2D [4]")]
+        [NativeTypeName("struct SUPoint2D[4]")]
         public _uv_coords_e__FixedBuffer uv_coords;
 
-        [NativeTypeName("size_t [4]")]
+        [NativeTypeName("size_t[4]")]
         public _vertex_indices_e__FixedBuffer vertex_indices;
 
         public SUMaterialRef material;
@@ -651,7 +590,7 @@ namespace SketchUpSharp
 
     public unsafe partial struct SUModelStatistics
     {
-        [NativeTypeName("int [8]")]
+        [NativeTypeName("int[8]")]
         public fixed int entity_counts[8];
 
         public enum SUEntityType
@@ -795,13 +734,11 @@ namespace SketchUpSharp
 
     public unsafe partial struct SULengthFormatterRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
     public unsafe partial struct SUStringRef
     {
-        [NativeTypeName("void *")]
         public void* ptr;
     }
 
@@ -824,7 +761,7 @@ namespace SketchUpSharp
         [NativeTypeName("size_t")]
         public nuint days_remaining;
 
-        [NativeTypeName("char [512]")]
+        [NativeTypeName("char[512]")]
         public fixed sbyte error_description[512];
     }
 
@@ -873,7 +810,7 @@ namespace SketchUpSharp
 
     public unsafe partial struct SUTransformation
     {
-        [NativeTypeName("double [16]")]
+        [NativeTypeName("double[16]")]
         public fixed double values[16];
     }
 
@@ -960,11 +897,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPlane3DIsOn([NativeTypeName("const struct SUPlane3D *")] SUPlane3D* plane, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("bool *")] bool* is_on);
+        public static extern SUResult SUPlane3DIsOn([NativeTypeName("const struct SUPlane3D *")] SUPlane3D* plane, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, bool* is_on);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPlane3DDistanceTo([NativeTypeName("const struct SUPlane3D *")] SUPlane3D* plane, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("double *")] double* distance);
+        public static extern SUResult SUPlane3DDistanceTo([NativeTypeName("const struct SUPlane3D *")] SUPlane3D* plane, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, double* distance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -980,7 +917,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPoint2DGetEqual([NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point1, [NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point2, [NativeTypeName("bool *")] bool* equal);
+        public static extern SUResult SUPoint2DGetEqual([NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point1, [NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point2, bool* equal);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -988,7 +925,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPoint2DDistanceToSUPoint2D([NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point1, [NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point2, [NativeTypeName("double *")] double* distance);
+        public static extern SUResult SUPoint2DDistanceToSUPoint2D([NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point1, [NativeTypeName("const struct SUPoint2D *")] SUPoint2D* point2, double* distance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -996,11 +933,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPoint3DGetEqual([NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point1, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point2, [NativeTypeName("bool *")] bool* equal);
+        public static extern SUResult SUPoint3DGetEqual([NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point1, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point2, bool* equal);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPoint3DLessThan([NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point1, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point2, [NativeTypeName("bool *")] bool* less_than);
+        public static extern SUResult SUPoint3DLessThan([NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point1, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point2, bool* less_than);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1008,7 +945,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPoint3DDistanceToSUPoint3D([NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point1, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point2, [NativeTypeName("double *")] double* distance);
+        public static extern SUResult SUPoint3DDistanceToSUPoint3D([NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point1, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point2, double* distance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1016,11 +953,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SURay3DIsOn([NativeTypeName("const struct SURay3D *")] SURay3D* ray, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("bool *")] bool* is_on);
+        public static extern SUResult SURay3DIsOn([NativeTypeName("const struct SURay3D *")] SURay3D* ray, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, bool* is_on);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SURay3DDistanceTo([NativeTypeName("const struct SURay3D *")] SURay3D* ray, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("double *")] double* distance);
+        public static extern SUResult SURay3DDistanceTo([NativeTypeName("const struct SURay3D *")] SURay3D* ray, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, double* distance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1064,7 +1001,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTransformationIsIdentity([NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, [NativeTypeName("bool *")] bool* is_identity);
+        public static extern SUResult SUTransformationIsIdentity([NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, bool* is_identity);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1088,7 +1025,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTransformationGetZRotation([NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, [NativeTypeName("double *")] double* z_rotation);
+        public static extern SUResult SUTransformationGetZRotation([NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, double* z_rotation);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1096,7 +1033,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTransformationIsMirrored([NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, [NativeTypeName("bool *")] bool* is_mirrored);
+        public static extern SUResult SUTransformationIsMirrored([NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, bool* is_mirrored);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1124,7 +1061,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTransformation2DIsIdentity([NativeTypeName("const struct SUTransformation2D *")] SUTransformation2D* transform, [NativeTypeName("bool *")] bool* is_identity);
+        public static extern SUResult SUTransformation2DIsIdentity([NativeTypeName("const struct SUTransformation2D *")] SUTransformation2D* transform, bool* is_identity);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1140,23 +1077,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DIsValid([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector, [NativeTypeName("bool *")] bool* valid);
+        public static extern SUResult SUVector2DIsValid([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector, bool* valid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DIsParallelTo([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("bool *")] bool* parallel);
+        public static extern SUResult SUVector2DIsParallelTo([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, bool* parallel);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DIsPerpendicularTo([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("bool *")] bool* perpendicular);
+        public static extern SUResult SUVector2DIsPerpendicularTo([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, bool* perpendicular);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DIsSameDirectionAs([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("bool *")] bool* same_direction);
+        public static extern SUResult SUVector2DIsSameDirectionAs([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, bool* same_direction);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DIsEqual([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("bool *")] bool* equal);
+        public static extern SUResult SUVector2DIsEqual([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, bool* equal);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1168,19 +1105,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DDot([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("double *")] double* dot);
+        public static extern SUResult SUVector2DDot([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, double* dot);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DCross([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("double *")] double* cross);
+        public static extern SUResult SUVector2DCross([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, double* cross);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DIsUnitVector([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector, [NativeTypeName("bool *")] bool* is_unit_vector);
+        public static extern SUResult SUVector2DIsUnitVector([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector, bool* is_unit_vector);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DGetLength([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector, [NativeTypeName("double *")] double* length);
+        public static extern SUResult SUVector2DGetLength([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector, double* length);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1188,7 +1125,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector2DAngleBetween([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, [NativeTypeName("double *")] double* angle);
+        public static extern SUResult SUVector2DAngleBetween([NativeTypeName("const struct SUVector2D *")] SUVector2D* vector1, [NativeTypeName("const struct SUVector2D *")] SUVector2D* vector2, double* angle);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1200,27 +1137,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DIsValid([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector, [NativeTypeName("bool *")] bool* valid);
+        public static extern SUResult SUVector3DIsValid([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector, bool* valid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DIsParallelTo([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("bool *")] bool* parallel);
+        public static extern SUResult SUVector3DIsParallelTo([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, bool* parallel);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DIsPerpendicularTo([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("bool *")] bool* perpendicular);
+        public static extern SUResult SUVector3DIsPerpendicularTo([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, bool* perpendicular);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DIsSameDirectionAs([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("bool *")] bool* same_direction);
+        public static extern SUResult SUVector3DIsSameDirectionAs([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, bool* same_direction);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DIsEqual([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("bool *")] bool* equal);
+        public static extern SUResult SUVector3DIsEqual([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, bool* equal);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DLessThan([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("bool *")] bool* less_than);
+        public static extern SUResult SUVector3DLessThan([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, bool* less_than);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1232,7 +1169,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DDot([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("double *")] double* dot);
+        public static extern SUResult SUVector3DDot([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, double* dot);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1240,11 +1177,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DIsUnitVector([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector, [NativeTypeName("bool *")] bool* is_unit_vector);
+        public static extern SUResult SUVector3DIsUnitVector([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector, bool* is_unit_vector);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DGetLength([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector, [NativeTypeName("double *")] double* length);
+        public static extern SUResult SUVector3DGetLength([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector, double* length);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1252,7 +1189,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVector3DAngleBetween([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, [NativeTypeName("double *")] double* angle);
+        public static extern SUResult SUVector3DAngleBetween([NativeTypeName("const struct SUVector3D *")] SUVector3D* vector1, [NativeTypeName("const struct SUVector3D *")] SUVector3D* vector2, double* angle);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1280,15 +1217,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUArcCurveCreate([NativeTypeName("SUArcCurveRef *")] SUArcCurveRef* arccurve, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* center, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start_point, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end_point, [NativeTypeName("const struct SUVector3D *")] SUVector3D* normal, [NativeTypeName("size_t")] nuint num_edges);
+        public static extern SUResult SUArcCurveCreate(SUArcCurveRef* arccurve, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* center, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start_point, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end_point, [NativeTypeName("const struct SUVector3D *")] SUVector3D* normal, [NativeTypeName("size_t")] nuint num_edges);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUArcCurveRelease([NativeTypeName("SUArcCurveRef *")] SUArcCurveRef* arccurve);
+        public static extern SUResult SUArcCurveRelease(SUArcCurveRef* arccurve);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUArcCurveGetRadius(SUArcCurveRef arccurve, [NativeTypeName("double *")] double* radius);
+        public static extern SUResult SUArcCurveGetRadius(SUArcCurveRef arccurve, double* radius);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1316,23 +1253,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUArcCurveGetStartAngle(SUArcCurveRef arccurve, [NativeTypeName("double *")] double* angle);
+        public static extern SUResult SUArcCurveGetStartAngle(SUArcCurveRef arccurve, double* angle);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUArcCurveGetEndAngle(SUArcCurveRef arccurve, [NativeTypeName("double *")] double* angle);
+        public static extern SUResult SUArcCurveGetEndAngle(SUArcCurveRef arccurve, double* angle);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUArcCurveGetIsFullCircle(SUArcCurveRef arccurve, [NativeTypeName("bool *")] bool* is_full);
+        public static extern SUResult SUArcCurveGetIsFullCircle(SUArcCurveRef arccurve, bool* is_full);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAttributeDictionaryCreate([NativeTypeName("SUAttributeDictionaryRef *")] SUAttributeDictionaryRef* dictionary, [NativeTypeName("const char *")] sbyte* name);
+        public static extern SUResult SUAttributeDictionaryCreate(SUAttributeDictionaryRef* dictionary, [NativeTypeName("const char *")] sbyte* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAttributeDictionaryRelease([NativeTypeName("SUAttributeDictionaryRef *")] SUAttributeDictionaryRef* dictionary);
+        public static extern SUResult SUAttributeDictionaryRelease(SUAttributeDictionaryRef* dictionary);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUAttributeDictionaryToEntity(SUAttributeDictionaryRef dictionary);
@@ -1342,7 +1279,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAttributeDictionaryGetName(SUAttributeDictionaryRef dictionary, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUAttributeDictionaryGetName(SUAttributeDictionaryRef dictionary, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1350,7 +1287,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAttributeDictionaryGetValue(SUAttributeDictionaryRef dictionary, [NativeTypeName("const char *")] sbyte* key, [NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* value_out);
+        public static extern SUResult SUAttributeDictionaryGetValue(SUAttributeDictionaryRef dictionary, [NativeTypeName("const char *")] sbyte* key, SUTypedValueRef* value_out);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1358,7 +1295,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAttributeDictionaryGetKeys(SUAttributeDictionaryRef dictionary, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef []")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUAttributeDictionaryGetKeys(SUAttributeDictionaryRef dictionary, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef[]")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUAxesToEntity(SUAxesRef axes);
@@ -1374,15 +1311,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAxesCreate([NativeTypeName("SUAxesRef *")] SUAxesRef* axes);
+        public static extern SUResult SUAxesCreate(SUAxesRef* axes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAxesCreateCustom([NativeTypeName("SUAxesRef *")] SUAxesRef* axes, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* origin, [NativeTypeName("const struct SUVector3D *")] SUVector3D* xaxis, [NativeTypeName("const struct SUVector3D *")] SUVector3D* yaxis, [NativeTypeName("const struct SUVector3D *")] SUVector3D* zaxis);
+        public static extern SUResult SUAxesCreateCustom(SUAxesRef* axes, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* origin, [NativeTypeName("const struct SUVector3D *")] SUVector3D* xaxis, [NativeTypeName("const struct SUVector3D *")] SUVector3D* yaxis, [NativeTypeName("const struct SUVector3D *")] SUVector3D* zaxis);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUAxesRelease([NativeTypeName("SUAxesRef *")] SUAxesRef* axes);
+        public static extern SUResult SUAxesRelease(SUAxesRef* axes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1418,11 +1355,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraCreate([NativeTypeName("SUCameraRef *")] SUCameraRef* camera);
+        public static extern SUResult SUCameraCreate(SUCameraRef* camera);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraRelease([NativeTypeName("SUCameraRef *")] SUCameraRef* camera);
+        public static extern SUResult SUCameraRelease(SUCameraRef* camera);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1442,7 +1379,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetPerspectiveFrustumFOV(SUCameraRef camera, [NativeTypeName("double *")] double* fov);
+        public static extern SUResult SUCameraGetPerspectiveFrustumFOV(SUCameraRef camera, double* fov);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1450,7 +1387,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetAspectRatio(SUCameraRef camera, [NativeTypeName("double *")] double* aspect_ratio);
+        public static extern SUResult SUCameraGetAspectRatio(SUCameraRef camera, double* aspect_ratio);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1458,7 +1395,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetOrthographicFrustumHeight(SUCameraRef camera, [NativeTypeName("double *")] double* height);
+        public static extern SUResult SUCameraGetOrthographicFrustumHeight(SUCameraRef camera, double* height);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1466,11 +1403,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetPerspective(SUCameraRef camera, [NativeTypeName("bool *")] bool* perspective);
+        public static extern SUResult SUCameraGetPerspective(SUCameraRef camera, bool* perspective);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetClippingDistances(SUCameraRef camera, [NativeTypeName("double *")] double* znear, [NativeTypeName("double *")] double* zfar);
+        public static extern SUResult SUCameraGetClippingDistances(SUCameraRef camera, double* znear, double* zfar);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1478,7 +1415,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetFOVIsHeight(SUCameraRef camera, [NativeTypeName("bool *")] bool* is_fov_height);
+        public static extern SUResult SUCameraGetFOVIsHeight(SUCameraRef camera, bool* is_fov_height);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1486,7 +1423,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetImageWidth(SUCameraRef camera, [NativeTypeName("double *")] double* width);
+        public static extern SUResult SUCameraGetImageWidth(SUCameraRef camera, double* width);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1494,7 +1431,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetDescription(SUCameraRef camera, [NativeTypeName("SUStringRef *")] SUStringRef* desc);
+        public static extern SUResult SUCameraGetDescription(SUCameraRef camera, SUStringRef* desc);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1506,7 +1443,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGet2D(SUCameraRef camera, [NativeTypeName("bool *")] bool* is_2d);
+        public static extern SUResult SUCameraGet2D(SUCameraRef camera, bool* is_2d);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1514,7 +1451,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCameraGetScale2D(SUCameraRef camera, [NativeTypeName("double *")] double* scale);
+        public static extern SUResult SUCameraGetScale2D(SUCameraRef camera, double* scale);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1530,15 +1467,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationsGetSchema(SUClassificationsRef classifications, [NativeTypeName("const char *")] sbyte* schema_name, [NativeTypeName("SUSchemaRef *")] SUSchemaRef* schema_ref);
+        public static extern SUResult SUClassificationsGetSchema(SUClassificationsRef classifications, [NativeTypeName("const char *")] sbyte* schema_name, SUSchemaRef* schema_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationAttributeGetValue(SUClassificationAttributeRef attribute, [NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* value);
+        public static extern SUResult SUClassificationAttributeGetValue(SUClassificationAttributeRef attribute, SUTypedValueRef* value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationAttributeGetPath(SUClassificationAttributeRef attribute, [NativeTypeName("SUStringRef *")] SUStringRef* path);
+        public static extern SUResult SUClassificationAttributeGetPath(SUClassificationAttributeRef attribute, SUStringRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1546,11 +1483,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationAttributeGetChild(SUClassificationAttributeRef attribute, [NativeTypeName("size_t")] nuint index, [NativeTypeName("SUClassificationAttributeRef *")] SUClassificationAttributeRef* child);
+        public static extern SUResult SUClassificationAttributeGetChild(SUClassificationAttributeRef attribute, [NativeTypeName("size_t")] nuint index, SUClassificationAttributeRef* child);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationInfoRelease([NativeTypeName("SUClassificationInfoRef *")] SUClassificationInfoRef* classification_info);
+        public static extern SUResult SUClassificationInfoRelease(SUClassificationInfoRef* classification_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1558,19 +1495,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationInfoGetSchemaName(SUClassificationInfoRef classification_info, [NativeTypeName("size_t")] nuint index, [NativeTypeName("SUStringRef *")] SUStringRef* schema_name);
+        public static extern SUResult SUClassificationInfoGetSchemaName(SUClassificationInfoRef classification_info, [NativeTypeName("size_t")] nuint index, SUStringRef* schema_name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationInfoGetSchemaType(SUClassificationInfoRef classification_info, [NativeTypeName("size_t")] nuint index, [NativeTypeName("SUStringRef *")] SUStringRef* schema_type);
+        public static extern SUResult SUClassificationInfoGetSchemaType(SUClassificationInfoRef classification_info, [NativeTypeName("size_t")] nuint index, SUStringRef* schema_type);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationInfoGetSchemaAttribute(SUClassificationInfoRef classification_info, [NativeTypeName("size_t")] nuint index, [NativeTypeName("SUClassificationAttributeRef *")] SUClassificationAttributeRef* attribute);
+        public static extern SUResult SUClassificationInfoGetSchemaAttribute(SUClassificationInfoRef classification_info, [NativeTypeName("size_t")] nuint index, SUClassificationAttributeRef* attribute);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUClassificationInfoGetSchemaAttributeByPath(SUClassificationInfoRef classification_info, SUStringRef path, [NativeTypeName("SUClassificationAttributeRef *")] SUClassificationAttributeRef* attribute);
+        public static extern SUResult SUClassificationInfoGetSchemaAttributeByPath(SUClassificationInfoRef classification_info, SUStringRef path, SUClassificationAttributeRef* attribute);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUComponentDefinitionToEntity(SUComponentDefinitionRef comp_def);
@@ -1586,15 +1523,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionCreate([NativeTypeName("SUComponentDefinitionRef *")] SUComponentDefinitionRef* comp_def);
+        public static extern SUResult SUComponentDefinitionCreate(SUComponentDefinitionRef* comp_def);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionRelease([NativeTypeName("SUComponentDefinitionRef *")] SUComponentDefinitionRef* comp_def);
+        public static extern SUResult SUComponentDefinitionRelease(SUComponentDefinitionRef* comp_def);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetName(SUComponentDefinitionRef comp_def, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUComponentDefinitionGetName(SUComponentDefinitionRef comp_def, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1602,15 +1539,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetGuid(SUComponentDefinitionRef comp_def, [NativeTypeName("SUStringRef *")] SUStringRef* guid_ref);
+        public static extern SUResult SUComponentDefinitionGetGuid(SUComponentDefinitionRef comp_def, SUStringRef* guid_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetEntities(SUComponentDefinitionRef comp_def, [NativeTypeName("SUEntitiesRef *")] SUEntitiesRef* entities);
+        public static extern SUResult SUComponentDefinitionGetEntities(SUComponentDefinitionRef comp_def, SUEntitiesRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetDescription(SUComponentDefinitionRef comp_def, [NativeTypeName("SUStringRef *")] SUStringRef* desc);
+        public static extern SUResult SUComponentDefinitionGetDescription(SUComponentDefinitionRef comp_def, SUStringRef* desc);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1618,7 +1555,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionCreateInstance(SUComponentDefinitionRef comp_def, [NativeTypeName("SUComponentInstanceRef *")] SUComponentInstanceRef* instance);
+        public static extern SUResult SUComponentDefinitionCreateInstance(SUComponentDefinitionRef comp_def, SUComponentInstanceRef* instance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1630,7 +1567,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetInstances(SUComponentDefinitionRef comp_def, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentInstanceRef []")] SUComponentInstanceRef* instances, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUComponentDefinitionGetInstances(SUComponentDefinitionRef comp_def, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentInstanceRef[]")] SUComponentInstanceRef* instances, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1646,11 +1583,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionIsInternal(SUComponentDefinitionRef comp_def, [NativeTypeName("bool *")] bool* is_internal);
+        public static extern SUResult SUComponentDefinitionIsInternal(SUComponentDefinitionRef comp_def, bool* is_internal);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetPath(SUComponentDefinitionRef comp_def, [NativeTypeName("SUStringRef *")] SUStringRef* path);
+        public static extern SUResult SUComponentDefinitionGetPath(SUComponentDefinitionRef comp_def, SUStringRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1662,7 +1599,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionGetOpenings(SUComponentDefinitionRef comp_def, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUOpeningRef []")] SUOpeningRef* openings, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUComponentDefinitionGetOpenings(SUComponentDefinitionRef comp_def, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUOpeningRef[]")] SUOpeningRef* openings, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1686,7 +1623,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentDefinitionIsLiveComponent(SUComponentDefinitionRef comp_def, [NativeTypeName("bool *")] bool* is_live);
+        public static extern SUResult SUComponentDefinitionIsLiveComponent(SUComponentDefinitionRef comp_def, bool* is_live);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUComponentInstanceToEntity(SUComponentInstanceRef instance);
@@ -1706,11 +1643,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceRelease([NativeTypeName("SUComponentInstanceRef *")] SUComponentInstanceRef* instance);
+        public static extern SUResult SUComponentInstanceRelease(SUComponentInstanceRef* instance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceGetName(SUComponentInstanceRef instance, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUComponentInstanceGetName(SUComponentInstanceRef instance, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1718,7 +1655,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceGetGuid(SUComponentInstanceRef instance, [NativeTypeName("SUStringRef *")] SUStringRef* guid);
+        public static extern SUResult SUComponentInstanceGetGuid(SUComponentInstanceRef instance, SUStringRef* guid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1730,7 +1667,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceGetDefinition(SUComponentInstanceRef instance, [NativeTypeName("SUComponentDefinitionRef *")] SUComponentDefinitionRef* component);
+        public static extern SUResult SUComponentInstanceGetDefinition(SUComponentInstanceRef instance, SUComponentDefinitionRef* component);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1738,7 +1675,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceIsLocked(SUComponentInstanceRef instance, [NativeTypeName("bool *")] bool* is_locked);
+        public static extern SUResult SUComponentInstanceIsLocked(SUComponentInstanceRef instance, bool* is_locked);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1746,15 +1683,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceComputeVolume(SUComponentInstanceRef instance, [NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, [NativeTypeName("double *")] double* volume);
+        public static extern SUResult SUComponentInstanceComputeVolume(SUComponentInstanceRef instance, [NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, double* volume);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceCreateDCInfo(SUComponentInstanceRef instance, [NativeTypeName("SUDynamicComponentInfoRef *")] SUDynamicComponentInfoRef* dc_info);
+        public static extern SUResult SUComponentInstanceCreateDCInfo(SUComponentInstanceRef instance, SUDynamicComponentInfoRef* dc_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceCreateClassificationInfo(SUComponentInstanceRef instance, [NativeTypeName("SUClassificationInfoRef *")] SUClassificationInfoRef* classification_info);
+        public static extern SUResult SUComponentInstanceCreateClassificationInfo(SUComponentInstanceRef instance, SUClassificationInfoRef* classification_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1762,7 +1699,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceGetAttachedInstances(SUComponentInstanceRef instance, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentInstanceRef []")] SUComponentInstanceRef* instances, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUComponentInstanceGetAttachedInstances(SUComponentInstanceRef instance, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentInstanceRef[]")] SUComponentInstanceRef* instances, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1770,7 +1707,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUComponentInstanceGetAttachedToDrawingElements(SUComponentInstanceRef instance, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDrawingElementRef []")] SUDrawingElementRef* elements, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUComponentInstanceGetAttachedToDrawingElements(SUComponentInstanceRef instance, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDrawingElementRef[]")] SUDrawingElementRef* elements, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUCurveToEntity(SUCurveRef curve);
@@ -1780,11 +1717,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCurveCreateWithEdges([NativeTypeName("SUCurveRef *")] SUCurveRef* curve, [NativeTypeName("const SUEdgeRef []")] SUEdgeRef* edges, [NativeTypeName("size_t")] nuint len);
+        public static extern SUResult SUCurveCreateWithEdges(SUCurveRef* curve, [NativeTypeName("const SUEdgeRef[]")] SUEdgeRef* edges, [NativeTypeName("size_t")] nuint len);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCurveRelease([NativeTypeName("SUCurveRef *")] SUCurveRef* curve);
+        public static extern SUResult SUCurveRelease(SUCurveRef* curve);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1796,7 +1733,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUCurveGetEdges(SUCurveRef curve, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef []")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUCurveGetEdges(SUCurveRef curve, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef[]")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUDimensionToEntity(SUDimensionRef dimension);
@@ -1816,7 +1753,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionGetText(SUDimensionRef dimension, [NativeTypeName("SUStringRef *")] SUStringRef* text);
+        public static extern SUResult SUDimensionGetText(SUDimensionRef dimension, SUStringRef* text);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1828,7 +1765,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionGetText3D(SUDimensionRef dimension, [NativeTypeName("bool *")] bool* is_text_3d);
+        public static extern SUResult SUDimensionGetText3D(SUDimensionRef dimension, bool* is_text_3d);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1844,7 +1781,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionGetFont(SUDimensionRef dimension, [NativeTypeName("SUFontRef *")] SUFontRef* font);
+        public static extern SUResult SUDimensionGetFont(SUDimensionRef dimension, SUFontRef* font);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1858,15 +1795,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionLinearCreate([NativeTypeName("SUDimensionLinearRef *")] SUDimensionLinearRef* dimension, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start_point, SUInstancePathRef start_path, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end_point, SUInstancePathRef end_path, double offset);
+        public static extern SUResult SUDimensionLinearCreate(SUDimensionLinearRef* dimension, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start_point, SUInstancePathRef start_path, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end_point, SUInstancePathRef end_path, double offset);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionLinearRelease([NativeTypeName("SUDimensionLinearRef *")] SUDimensionLinearRef* dimension);
+        public static extern SUResult SUDimensionLinearRelease(SUDimensionLinearRef* dimension);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionLinearGetStartPoint(SUDimensionLinearRef dimension, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* path);
+        public static extern SUResult SUDimensionLinearGetStartPoint(SUDimensionLinearRef dimension, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* point, SUInstancePathRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1874,7 +1811,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionLinearGetEndPoint(SUDimensionLinearRef dimension, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* path);
+        public static extern SUResult SUDimensionLinearGetEndPoint(SUDimensionLinearRef dimension, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* point, SUInstancePathRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1936,15 +1873,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionRadialCreate([NativeTypeName("SUDimensionRadialRef *")] SUDimensionRadialRef* dimension, SUInstancePathRef path);
+        public static extern SUResult SUDimensionRadialCreate(SUDimensionRadialRef* dimension, SUInstancePathRef path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionRadialRelease([NativeTypeName("SUDimensionRadialRef *")] SUDimensionRadialRef* dimension);
+        public static extern SUResult SUDimensionRadialRelease(SUDimensionRadialRef* dimension);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionRadialGetCurveInstancePath(SUDimensionRadialRef dimension, [NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* path);
+        public static extern SUResult SUDimensionRadialGetCurveInstancePath(SUDimensionRadialRef dimension, SUInstancePathRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1952,7 +1889,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionRadialGetDiameter(SUDimensionRadialRef dimension, [NativeTypeName("bool *")] bool* is_diameter);
+        public static extern SUResult SUDimensionRadialGetDiameter(SUDimensionRadialRef dimension, bool* is_diameter);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1968,15 +1905,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionRadialGetLeaderPoints(SUDimensionRadialRef dimension, [NativeTypeName("struct SUPoint3D [3]")] SUPoint3D* points);
+        public static extern SUResult SUDimensionRadialGetLeaderPoints(SUDimensionRadialRef dimension, [NativeTypeName("struct SUPoint3D[3]")] SUPoint3D* points);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetFont(SUDimensionStyleRef style, [NativeTypeName("SUFontRef *")] SUFontRef* font);
+        public static extern SUResult SUDimensionStyleGetFont(SUDimensionStyleRef style, SUFontRef* font);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGet3D(SUDimensionStyleRef style, [NativeTypeName("bool *")] bool* has_3d);
+        public static extern SUResult SUDimensionStyleGet3D(SUDimensionStyleRef style, bool* has_3d);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -1988,11 +1925,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetColor(SUDimensionStyleRef style, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUDimensionStyleGetColor(SUDimensionStyleRef style, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetTextColor(SUDimensionStyleRef style, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUDimensionStyleGetTextColor(SUDimensionStyleRef style, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2008,31 +1945,31 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetHighlightNonAssociativeDimensions(SUDimensionStyleRef style, [NativeTypeName("bool *")] bool* highlight);
+        public static extern SUResult SUDimensionStyleGetHighlightNonAssociativeDimensions(SUDimensionStyleRef style, bool* highlight);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetHighlightNonAssociativeDimensionsColor(SUDimensionStyleRef style, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUDimensionStyleGetHighlightNonAssociativeDimensionsColor(SUDimensionStyleRef style, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetShowRadialPrefix(SUDimensionStyleRef style, [NativeTypeName("bool *")] bool* show);
+        public static extern SUResult SUDimensionStyleGetShowRadialPrefix(SUDimensionStyleRef style, bool* show);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetHideOutOfPlane(SUDimensionStyleRef style, [NativeTypeName("bool *")] bool* hide);
+        public static extern SUResult SUDimensionStyleGetHideOutOfPlane(SUDimensionStyleRef style, bool* hide);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetHideOutOfPlaneValue(SUDimensionStyleRef style, [NativeTypeName("double *")] double* tolerance);
+        public static extern SUResult SUDimensionStyleGetHideOutOfPlaneValue(SUDimensionStyleRef style, double* tolerance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetHideSmall(SUDimensionStyleRef style, [NativeTypeName("bool *")] bool* hide);
+        public static extern SUResult SUDimensionStyleGetHideSmall(SUDimensionStyleRef style, bool* hide);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDimensionStyleGetHideSmallValue(SUDimensionStyleRef style, [NativeTypeName("double *")] double* tolerance);
+        public static extern SUResult SUDimensionStyleGetHideSmallValue(SUDimensionStyleRef style, double* tolerance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUDrawingElementToEntity(SUDrawingElementRef elem);
@@ -2050,7 +1987,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDrawingElementGetMaterial(SUDrawingElementRef elem, [NativeTypeName("SUMaterialRef *")] SUMaterialRef* material);
+        public static extern SUResult SUDrawingElementGetMaterial(SUDrawingElementRef elem, SUMaterialRef* material);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2058,7 +1995,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDrawingElementGetLayer(SUDrawingElementRef elem, [NativeTypeName("SULayerRef *")] SULayerRef* layer);
+        public static extern SUResult SUDrawingElementGetLayer(SUDrawingElementRef elem, SULayerRef* layer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2070,7 +2007,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDrawingElementGetHidden(SUDrawingElementRef elem, [NativeTypeName("bool *")] bool* hide_flag);
+        public static extern SUResult SUDrawingElementGetHidden(SUDrawingElementRef elem, bool* hide_flag);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2078,7 +2015,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDrawingElementGetCastsShadows(SUDrawingElementRef elem, [NativeTypeName("bool *")] bool* casts_shadows_flag);
+        public static extern SUResult SUDrawingElementGetCastsShadows(SUDrawingElementRef elem, bool* casts_shadows_flag);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2086,27 +2023,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDrawingElementGetReceivesShadows(SUDrawingElementRef elem, [NativeTypeName("bool *")] bool* receives_shadows_flag);
+        public static extern SUResult SUDrawingElementGetReceivesShadows(SUDrawingElementRef elem, bool* receives_shadows_flag);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDynamicComponentAttributeGetName(SUDynamicComponentAttributeRef attribute, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUDynamicComponentAttributeGetName(SUDynamicComponentAttributeRef attribute, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDynamicComponentAttributeGetDisplayName(SUDynamicComponentAttributeRef attribute, [NativeTypeName("SUStringRef *")] SUStringRef* display_name);
+        public static extern SUResult SUDynamicComponentAttributeGetDisplayName(SUDynamicComponentAttributeRef attribute, SUStringRef* display_name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDynamicComponentAttributeGetVisibility(SUDynamicComponentAttributeRef attribute, [NativeTypeName("bool *")] bool* visible);
+        public static extern SUResult SUDynamicComponentAttributeGetVisibility(SUDynamicComponentAttributeRef attribute, bool* visible);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDynamicComponentAttributeGetDisplayValue(SUDynamicComponentAttributeRef attribute, [NativeTypeName("SUStringRef *")] SUStringRef* display_value);
+        public static extern SUResult SUDynamicComponentAttributeGetDisplayValue(SUDynamicComponentAttributeRef attribute, SUStringRef* display_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDynamicComponentInfoRelease([NativeTypeName("SUDynamicComponentInfoRef *")] SUDynamicComponentInfoRef* dc_info);
+        public static extern SUResult SUDynamicComponentInfoRelease(SUDynamicComponentInfoRef* dc_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2114,7 +2051,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUDynamicComponentInfoGetDCAttributes(SUDynamicComponentInfoRef dc_info, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDynamicComponentAttributeRef []")] SUDynamicComponentAttributeRef* attributes, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUDynamicComponentInfoGetDCAttributes(SUDynamicComponentInfoRef dc_info, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDynamicComponentAttributeRef[]")] SUDynamicComponentAttributeRef* attributes, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUEdgeToEntity(SUEdgeRef edge);
@@ -2130,23 +2067,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeCreate([NativeTypeName("SUEdgeRef *")] SUEdgeRef* edge, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end);
+        public static extern SUResult SUEdgeCreate(SUEdgeRef* edge, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeRelease([NativeTypeName("SUEdgeRef *")] SUEdgeRef* edge);
+        public static extern SUResult SUEdgeRelease(SUEdgeRef* edge);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetCurve(SUEdgeRef edge, [NativeTypeName("SUCurveRef *")] SUCurveRef* curve);
+        public static extern SUResult SUEdgeGetCurve(SUEdgeRef edge, SUCurveRef* curve);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetStartVertex(SUEdgeRef edge, [NativeTypeName("SUVertexRef *")] SUVertexRef* vertex);
+        public static extern SUResult SUEdgeGetStartVertex(SUEdgeRef edge, SUVertexRef* vertex);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetEndVertex(SUEdgeRef edge, [NativeTypeName("SUVertexRef *")] SUVertexRef* vertex);
+        public static extern SUResult SUEdgeGetEndVertex(SUEdgeRef edge, SUVertexRef* vertex);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2154,7 +2091,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetSoft(SUEdgeRef edge, [NativeTypeName("bool *")] bool* soft_flag);
+        public static extern SUResult SUEdgeGetSoft(SUEdgeRef edge, bool* soft_flag);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2162,7 +2099,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetSmooth(SUEdgeRef edge, [NativeTypeName("bool *")] bool* smooth_flag);
+        public static extern SUResult SUEdgeGetSmooth(SUEdgeRef edge, bool* smooth_flag);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2170,15 +2107,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetFaces(SUEdgeRef edge, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFaceRef []")] SUFaceRef* faces, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEdgeGetFaces(SUEdgeRef edge, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFaceRef[]")] SUFaceRef* faces, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetColor(SUEdgeRef edge, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUEdgeGetColor(SUEdgeRef edge, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeGetLengthWithTransform(SUEdgeRef edge, [NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, [NativeTypeName("double *")] double* length);
+        public static extern SUResult SUEdgeGetLengthWithTransform(SUEdgeRef edge, [NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, double* length);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2192,15 +2129,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetEdge(SUEdgeUseRef edgeuse, [NativeTypeName("SUEdgeRef *")] SUEdgeRef* edge);
+        public static extern SUResult SUEdgeUseGetEdge(SUEdgeUseRef edgeuse, SUEdgeRef* edge);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetLoop(SUEdgeUseRef edgeuse, [NativeTypeName("SULoopRef *")] SULoopRef* loop);
+        public static extern SUResult SUEdgeUseGetLoop(SUEdgeUseRef edgeuse, SULoopRef* loop);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetFace(SUEdgeUseRef edgeuse, [NativeTypeName("SUFaceRef *")] SUFaceRef* face);
+        public static extern SUResult SUEdgeUseGetFace(SUEdgeUseRef edgeuse, SUFaceRef* face);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2208,27 +2145,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetPartners(SUEdgeUseRef edgeuse, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeUseRef []")] SUEdgeUseRef* partners, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEdgeUseGetPartners(SUEdgeUseRef edgeuse, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeUseRef[]")] SUEdgeUseRef* partners, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseIsReversed(SUEdgeUseRef edgeuse, [NativeTypeName("bool *")] bool* reversed);
+        public static extern SUResult SUEdgeUseIsReversed(SUEdgeUseRef edgeuse, bool* reversed);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetPrevious(SUEdgeUseRef edgeuse, [NativeTypeName("SUEdgeUseRef *")] SUEdgeUseRef* prev_edgeuse);
+        public static extern SUResult SUEdgeUseGetPrevious(SUEdgeUseRef edgeuse, SUEdgeUseRef* prev_edgeuse);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetNext(SUEdgeUseRef edgeuse, [NativeTypeName("SUEdgeUseRef *")] SUEdgeUseRef* next_edgeuse);
+        public static extern SUResult SUEdgeUseGetNext(SUEdgeUseRef edgeuse, SUEdgeUseRef* next_edgeuse);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetStartVertex(SUEdgeUseRef edgeuse, [NativeTypeName("SUVertexRef *")] SUVertexRef* vertex);
+        public static extern SUResult SUEdgeUseGetStartVertex(SUEdgeUseRef edgeuse, SUVertexRef* vertex);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEdgeUseGetEndVertex(SUEdgeUseRef edgeuse, [NativeTypeName("SUVertexRef *")] SUVertexRef* vertex);
+        public static extern SUResult SUEdgeUseGetEndVertex(SUEdgeUseRef edgeuse, SUVertexRef* vertex);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2260,7 +2197,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetFaces(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFaceRef []")] SUFaceRef* faces, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetFaces(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFaceRef[]")] SUFaceRef* faces, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2268,7 +2205,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUCurveRef []")] SUCurveRef* curves, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUCurveRef[]")] SUCurveRef* curves, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2276,7 +2213,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetArcCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUArcCurveRef []")] SUArcCurveRef* arccurves, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetArcCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUArcCurveRef[]")] SUArcCurveRef* arccurves, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2284,7 +2221,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetGuidePoints(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUGuidePointRef []")] SUGuidePointRef* guide_points, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetGuidePoints(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUGuidePointRef[]")] SUGuidePointRef* guide_points, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2292,7 +2229,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetGuideLines(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUGuideLineRef []")] SUGuideLineRef* guide_lines, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetGuideLines(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUGuideLineRef[]")] SUGuideLineRef* guide_lines, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2300,7 +2237,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetEdges(SUEntitiesRef entities, [NativeTypeName("bool")] byte standalone_only, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef []")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetEdges(SUEntitiesRef entities, [NativeTypeName("bool")] byte standalone_only, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef[]")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2308,31 +2245,31 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetPolyline3ds(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUPolyline3dRef []")] SUPolyline3dRef* lines, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetPolyline3ds(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUPolyline3dRef[]")] SUPolyline3dRef* lines, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddFaces(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUFaceRef []")] SUFaceRef* faces);
+        public static extern SUResult SUEntitiesAddFaces(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUFaceRef[]")] SUFaceRef* faces);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddEdges(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUEdgeRef []")] SUEdgeRef* edges);
+        public static extern SUResult SUEntitiesAddEdges(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUEdgeRef[]")] SUEdgeRef* edges);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUCurveRef []")] SUCurveRef* curves);
+        public static extern SUResult SUEntitiesAddCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUCurveRef[]")] SUCurveRef* curves);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddArcCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUArcCurveRef []")] SUArcCurveRef* curves);
+        public static extern SUResult SUEntitiesAddArcCurves(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUArcCurveRef[]")] SUArcCurveRef* curves);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddGuidePoints(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUGuidePointRef []")] SUGuidePointRef* guide_points);
+        public static extern SUResult SUEntitiesAddGuidePoints(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUGuidePointRef[]")] SUGuidePointRef* guide_points);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddGuideLines(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUGuideLineRef []")] SUGuideLineRef* guide_lines);
+        public static extern SUResult SUEntitiesAddGuideLines(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUGuideLineRef[]")] SUGuideLineRef* guide_lines);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2344,15 +2281,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddInstance(SUEntitiesRef entities, SUComponentInstanceRef instance, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUEntitiesAddInstance(SUEntitiesRef entities, SUComponentInstanceRef instance, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddSectionPlanes(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUSectionPlaneRef []")] SUSectionPlaneRef* section_planes);
+        public static extern SUResult SUEntitiesAddSectionPlanes(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUSectionPlaneRef[]")] SUSectionPlaneRef* section_planes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesAddTexts(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUTextRef []")] SUTextRef* texts);
+        public static extern SUResult SUEntitiesAddTexts(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUTextRef[]")] SUTextRef* texts);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2360,7 +2297,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetGroups(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUGroupRef []")] SUGroupRef* groups, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetGroups(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUGroupRef[]")] SUGroupRef* groups, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2368,7 +2305,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetImages(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUImageRef []")] SUImageRef* images, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetImages(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUImageRef[]")] SUImageRef* images, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2376,7 +2313,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetInstances(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentInstanceRef []")] SUComponentInstanceRef* instances, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetInstances(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentInstanceRef[]")] SUComponentInstanceRef* instances, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2388,7 +2325,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetSectionPlanes(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUSectionPlaneRef []")] SUSectionPlaneRef* section_planes, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetSectionPlanes(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUSectionPlaneRef[]")] SUSectionPlaneRef* section_planes, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2396,31 +2333,31 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetDimensions(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDimensionRef *")] SUDimensionRef* dimensions, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetDimensions(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, SUDimensionRef* dimensions, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesGetTexts(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUTextRef []")] SUTextRef* texts, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntitiesGetTexts(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUTextRef[]")] SUTextRef* texts, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesTransform(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef []")] SUEntityRef* elements, [NativeTypeName("const struct SUTransformation *")] SUTransformation* trans);
+        public static extern SUResult SUEntitiesTransform(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef[]")] SUEntityRef* elements, [NativeTypeName("const struct SUTransformation *")] SUTransformation* trans);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesTransformMultiple(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef []")] SUEntityRef* elements, [NativeTypeName("const struct SUTransformation []")] SUTransformation* tranforms);
+        public static extern SUResult SUEntitiesTransformMultiple(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef[]")] SUEntityRef* elements, [NativeTypeName("const struct SUTransformation[]")] SUTransformation* tranforms);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesErase(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef []")] SUEntityRef* elements);
+        public static extern SUResult SUEntitiesErase(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef[]")] SUEntityRef* elements);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesIsRecursivelyEmpty(SUEntitiesRef entities, [NativeTypeName("bool *")] bool* is_empty);
+        public static extern SUResult SUEntitiesIsRecursivelyEmpty(SUEntitiesRef entities, bool* is_empty);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesHasSectionCuts(SUEntitiesRef entities, [NativeTypeName("bool *")] bool* has_section_cuts);
+        public static extern SUResult SUEntitiesHasSectionCuts(SUEntitiesRef entities, bool* has_section_cuts);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2428,7 +2365,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntitiesWeld(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint num_edges, [NativeTypeName("SUEdgeRef []")] SUEdgeRef* edges, SUEntityListRef list);
+        public static extern SUResult SUEntitiesWeld(SUEntitiesRef entities, [NativeTypeName("size_t")] nuint num_edges, [NativeTypeName("SUEdgeRef[]")] SUEdgeRef* edges, SUEntityListRef list);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SURefType")]
@@ -2448,7 +2385,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityGetAttributeDictionaries(SUEntityRef entity, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUAttributeDictionaryRef []")] SUAttributeDictionaryRef* dictionaries, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUEntityGetAttributeDictionaries(SUEntityRef entity, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUAttributeDictionaryRef[]")] SUAttributeDictionaryRef* dictionaries, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2456,27 +2393,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityGetAttributeDictionary(SUEntityRef entity, [NativeTypeName("const char *")] sbyte* name, [NativeTypeName("SUAttributeDictionaryRef *")] SUAttributeDictionaryRef* dictionary);
+        public static extern SUResult SUEntityGetAttributeDictionary(SUEntityRef entity, [NativeTypeName("const char *")] sbyte* name, SUAttributeDictionaryRef* dictionary);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityGetModel(SUEntityRef entity, [NativeTypeName("SUModelRef *")] SUModelRef* model);
+        public static extern SUResult SUEntityGetModel(SUEntityRef entity, SUModelRef* model);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityGetParentEntities(SUEntityRef entity, [NativeTypeName("SUEntitiesRef *")] SUEntitiesRef* entities);
+        public static extern SUResult SUEntityGetParentEntities(SUEntityRef entity, SUEntitiesRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListCreate([NativeTypeName("SUEntityListRef *")] SUEntityListRef* list);
+        public static extern SUResult SUEntityListCreate(SUEntityListRef* list);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListRelease([NativeTypeName("SUEntityListRef *")] SUEntityListRef* list);
+        public static extern SUResult SUEntityListRelease(SUEntityListRef* list);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListBegin(SUEntityListRef list, [NativeTypeName("SUEntityListIteratorRef *")] SUEntityListIteratorRef* iterator);
+        public static extern SUResult SUEntityListBegin(SUEntityListRef list, SUEntityListIteratorRef* iterator);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2484,15 +2421,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListIteratorCreate([NativeTypeName("SUEntityListIteratorRef *")] SUEntityListIteratorRef* iterator);
+        public static extern SUResult SUEntityListIteratorCreate(SUEntityListIteratorRef* iterator);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListIteratorRelease([NativeTypeName("SUEntityListIteratorRef *")] SUEntityListIteratorRef* iterator);
+        public static extern SUResult SUEntityListIteratorRelease(SUEntityListIteratorRef* iterator);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListIteratorGetEntity(SUEntityListIteratorRef iterator, [NativeTypeName("SUEntityRef *")] SUEntityRef* entity);
+        public static extern SUResult SUEntityListIteratorGetEntity(SUEntityListIteratorRef iterator, SUEntityRef* entity);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2500,7 +2437,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUEntityListIteratorIsInRange(SUEntityListIteratorRef iterator, [NativeTypeName("bool *")] bool* in_range);
+        public static extern SUResult SUEntityListIteratorIsInRange(SUEntityListIteratorRef iterator, bool* in_range);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUFaceToEntity(SUFaceRef face);
@@ -2516,11 +2453,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceCreate([NativeTypeName("SUFaceRef *")] SUFaceRef* face, [NativeTypeName("const struct SUPoint3D []")] SUPoint3D* vertices3d, [NativeTypeName("SULoopInputRef *")] SULoopInputRef* outer_loop);
+        public static extern SUResult SUFaceCreate(SUFaceRef* face, [NativeTypeName("const struct SUPoint3D[]")] SUPoint3D* vertices3d, SULoopInputRef* outer_loop);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceCreateSimple([NativeTypeName("SUFaceRef *")] SUFaceRef* face, [NativeTypeName("const struct SUPoint3D []")] SUPoint3D* vertices3d, [NativeTypeName("size_t")] nuint len);
+        public static extern SUResult SUFaceCreateSimple(SUFaceRef* face, [NativeTypeName("const struct SUPoint3D[]")] SUPoint3D* vertices3d, [NativeTypeName("size_t")] nuint len);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2528,7 +2465,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceRelease([NativeTypeName("SUFaceRef *")] SUFaceRef* face);
+        public static extern SUResult SUFaceRelease(SUFaceRef* face);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2536,7 +2473,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetEdges(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef []")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUFaceGetEdges(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef[]")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2544,7 +2481,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetEdgeUses(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeUseRef []")] SUEdgeUseRef* edges, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUFaceGetEdgeUses(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeUseRef[]")] SUEdgeUseRef* edges, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2556,11 +2493,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetVertices(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUVertexRef []")] SUVertexRef* vertices, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUFaceGetVertices(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUVertexRef[]")] SUVertexRef* vertices, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetOuterLoop(SUFaceRef face, [NativeTypeName("SULoopRef *")] SULoopRef* loop);
+        public static extern SUResult SUFaceGetOuterLoop(SUFaceRef face, SULoopRef* loop);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2568,11 +2505,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetInnerLoops(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULoopRef []")] SULoopRef* loops, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUFaceGetInnerLoops(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULoopRef[]")] SULoopRef* loops, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceAddInnerLoop(SUFaceRef face, [NativeTypeName("const struct SUPoint3D []")] SUPoint3D* vertices3d, [NativeTypeName("SULoopInputRef *")] SULoopInputRef* loop);
+        public static extern SUResult SUFaceAddInnerLoop(SUFaceRef face, [NativeTypeName("const struct SUPoint3D[]")] SUPoint3D* vertices3d, SULoopInputRef* loop);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2580,11 +2517,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetOpenings(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUOpeningRef []")] SUOpeningRef* openings, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUFaceGetOpenings(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUOpeningRef[]")] SUOpeningRef* openings, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetFrontMaterial(SUFaceRef face, [NativeTypeName("SUMaterialRef *")] SUMaterialRef* material);
+        public static extern SUResult SUFaceGetFrontMaterial(SUFaceRef face, SUMaterialRef* material);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2592,7 +2529,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetBackMaterial(SUFaceRef face, [NativeTypeName("SUMaterialRef *")] SUMaterialRef* material);
+        public static extern SUResult SUFaceGetBackMaterial(SUFaceRef face, SUMaterialRef* material);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2600,31 +2537,31 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceIsFrontMaterialAffine(SUFaceRef face, [NativeTypeName("bool *")] bool* is_affine);
+        public static extern SUResult SUFaceIsFrontMaterialAffine(SUFaceRef face, bool* is_affine);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceIsBackMaterialAffine(SUFaceRef face, [NativeTypeName("bool *")] bool* is_affine);
+        public static extern SUResult SUFaceIsBackMaterialAffine(SUFaceRef face, bool* is_affine);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetArea(SUFaceRef face, [NativeTypeName("double *")] double* area);
+        public static extern SUResult SUFaceGetArea(SUFaceRef face, double* area);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetAreaWithTransform(SUFaceRef face, [NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, [NativeTypeName("double *")] double* area);
+        public static extern SUResult SUFaceGetAreaWithTransform(SUFaceRef face, [NativeTypeName("const struct SUTransformation *")] SUTransformation* transform, double* area);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceIsComplex(SUFaceRef face, [NativeTypeName("bool *")] bool* is_complex);
+        public static extern SUResult SUFaceIsComplex(SUFaceRef face, bool* is_complex);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetUVHelper(SUFaceRef face, [NativeTypeName("bool")] byte front, [NativeTypeName("bool")] byte back, SUTextureWriterRef texture_writer, [NativeTypeName("SUUVHelperRef *")] SUUVHelperRef* uv_helper);
+        public static extern SUResult SUFaceGetUVHelper(SUFaceRef face, [NativeTypeName("bool")] byte front, [NativeTypeName("bool")] byte back, SUTextureWriterRef texture_writer, SUUVHelperRef* uv_helper);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetUVHelperWithTextureHandle(SUFaceRef face, [NativeTypeName("bool")] byte front, [NativeTypeName("bool")] byte back, SUTextureWriterRef texture_writer, [NativeTypeName("long")] int textureHandle, [NativeTypeName("SUUVHelperRef *")] SUUVHelperRef* uv_helper);
+        public static extern SUResult SUFaceGetUVHelperWithTextureHandle(SUFaceRef face, [NativeTypeName("bool")] byte front, [NativeTypeName("bool")] byte back, SUTextureWriterRef texture_writer, [NativeTypeName("long")] int textureHandle, SUUVHelperRef* uv_helper);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2632,7 +2569,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFaceGetAttachedDrawingElements(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDrawingElementRef []")] SUDrawingElementRef* elems, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUFaceGetAttachedDrawingElements(SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUDrawingElementRef[]")] SUDrawingElementRef* elems, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2640,7 +2577,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFontGetFaceName(SUFontRef font, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUFontGetFaceName(SUFontRef font, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2648,19 +2585,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFontGetBold(SUFontRef font, [NativeTypeName("bool *")] bool* is_bold);
+        public static extern SUResult SUFontGetBold(SUFontRef font, bool* is_bold);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFontGetItalic(SUFontRef font, [NativeTypeName("bool *")] bool* is_italic);
+        public static extern SUResult SUFontGetItalic(SUFontRef font, bool* is_italic);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFontGetUseWorldSize(SUFontRef font, [NativeTypeName("bool *")] bool* use_world_size);
+        public static extern SUResult SUFontGetUseWorldSize(SUFontRef font, bool* use_world_size);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUFontGetWorldSize(SUFontRef font, [NativeTypeName("double *")] double* world_size);
+        public static extern SUResult SUFontGetWorldSize(SUFontRef font, double* world_size);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUFontToEntity(SUFontRef font);
@@ -2670,11 +2607,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGeometryInputCreate([NativeTypeName("SUGeometryInputRef *")] SUGeometryInputRef* geom_input);
+        public static extern SUResult SUGeometryInputCreate(SUGeometryInputRef* geom_input);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGeometryInputRelease([NativeTypeName("SUGeometryInputRef *")] SUGeometryInputRef* geom_input);
+        public static extern SUResult SUGeometryInputRelease(SUGeometryInputRef* geom_input);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2682,7 +2619,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGeometryInputSetVertices(SUGeometryInputRef geom_input, [NativeTypeName("size_t")] nuint num_vertices, [NativeTypeName("const struct SUPoint3D []")] SUPoint3D* points);
+        public static extern SUResult SUGeometryInputSetVertices(SUGeometryInputRef geom_input, [NativeTypeName("size_t")] nuint num_vertices, [NativeTypeName("const struct SUPoint3D[]")] SUPoint3D* points);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2710,7 +2647,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGeometryInputAddCurve(SUGeometryInputRef geom_input, [NativeTypeName("size_t")] nuint num_edges, [NativeTypeName("const size_t []")] nuint* edge_indices, [NativeTypeName("size_t *")] nuint* added_curve_index);
+        public static extern SUResult SUGeometryInputAddCurve(SUGeometryInputRef geom_input, [NativeTypeName("size_t")] nuint num_edges, [NativeTypeName("const size_t[]")] nuint* edge_indices, [NativeTypeName("size_t *")] nuint* added_curve_index);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2718,11 +2655,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopInputCreate([NativeTypeName("SULoopInputRef *")] SULoopInputRef* loop_input);
+        public static extern SUResult SULoopInputCreate(SULoopInputRef* loop_input);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopInputRelease([NativeTypeName("SULoopInputRef *")] SULoopInputRef* loop_input);
+        public static extern SUResult SULoopInputRelease(SULoopInputRef* loop_input);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2754,11 +2691,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopInputIsClosed(SULoopInputRef loop_input, [NativeTypeName("bool *")] bool* is_closed);
+        public static extern SUResult SULoopInputIsClosed(SULoopInputRef loop_input, bool* is_closed);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGeometryInputAddFace(SUGeometryInputRef geom_input, [NativeTypeName("SULoopInputRef *")] SULoopInputRef* outer_loop, [NativeTypeName("size_t *")] nuint* added_face_index);
+        public static extern SUResult SUGeometryInputAddFace(SUGeometryInputRef geom_input, SULoopInputRef* outer_loop, [NativeTypeName("size_t *")] nuint* added_face_index);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2770,7 +2707,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGeometryInputFaceAddInnerLoop(SUGeometryInputRef geom_input, [NativeTypeName("size_t")] nuint face_index, [NativeTypeName("SULoopInputRef *")] SULoopInputRef* loop_input);
+        public static extern SUResult SUGeometryInputFaceAddInnerLoop(SUGeometryInputRef geom_input, [NativeTypeName("size_t")] nuint face_index, SULoopInputRef* loop_input);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2808,7 +2745,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGroupCreate([NativeTypeName("SUGroupRef *")] SUGroupRef* group);
+        public static extern SUResult SUGroupCreate(SUGroupRef* group);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2816,11 +2753,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGroupGetName(SUGroupRef group, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUGroupGetName(SUGroupRef group, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGroupGetGuid(SUGroupRef group, [NativeTypeName("SUStringRef *")] SUStringRef* guid);
+        public static extern SUResult SUGroupGetGuid(SUGroupRef group, SUStringRef* guid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2836,11 +2773,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGroupGetEntities(SUGroupRef group, [NativeTypeName("SUEntitiesRef *")] SUEntitiesRef* entities);
+        public static extern SUResult SUGroupGetEntities(SUGroupRef group, SUEntitiesRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGroupGetDefinition(SUGroupRef group, [NativeTypeName("SUComponentDefinitionRef *")] SUComponentDefinitionRef* component);
+        public static extern SUResult SUGroupGetDefinition(SUGroupRef group, SUComponentDefinitionRef* component);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUGuideLineToEntity(SUGuideLineRef guide_line);
@@ -2856,19 +2793,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuideLineCreateFinite([NativeTypeName("SUGuideLineRef *")] SUGuideLineRef* guide_line, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end);
+        public static extern SUResult SUGuideLineCreateFinite(SUGuideLineRef* guide_line, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* start, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* end);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuideLineCreateInfinite([NativeTypeName("SUGuideLineRef *")] SUGuideLineRef* guide_line, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("const struct SUVector3D *")] SUVector3D* direction);
+        public static extern SUResult SUGuideLineCreateInfinite(SUGuideLineRef* guide_line, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("const struct SUVector3D *")] SUVector3D* direction);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuideLineRelease([NativeTypeName("SUGuideLineRef *")] SUGuideLineRef* guide_line);
+        public static extern SUResult SUGuideLineRelease(SUGuideLineRef* guide_line);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuideLineGetData(SUGuideLineRef guide_line, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* start, [NativeTypeName("struct SUVector3D *")] SUVector3D* direction, [NativeTypeName("bool *")] bool* isinfinite);
+        public static extern SUResult SUGuideLineGetData(SUGuideLineRef guide_line, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* start, [NativeTypeName("struct SUVector3D *")] SUVector3D* direction, bool* isinfinite);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUGuidePointToEntity(SUGuidePointRef guide_point);
@@ -2884,11 +2821,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuidePointCreate([NativeTypeName("SUGuidePointRef *")] SUGuidePointRef* guide_point, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* position);
+        public static extern SUResult SUGuidePointCreate(SUGuidePointRef* guide_point, [NativeTypeName("const struct SUPoint3D *")] SUPoint3D* position);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuidePointRelease([NativeTypeName("SUGuidePointRef *")] SUGuidePointRef* guide_point);
+        public static extern SUResult SUGuidePointRelease(SUGuidePointRef* guide_point);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2900,7 +2837,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUGuidePointGetDisplayAsLine(SUGuidePointRef guide_point, [NativeTypeName("bool *")] bool* as_line);
+        public static extern SUResult SUGuidePointGetDisplayAsLine(SUGuidePointRef guide_point, bool* as_line);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUImageToEntity(SUImageRef image);
@@ -2916,19 +2853,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageCreateFromFile([NativeTypeName("SUImageRef *")] SUImageRef* image, [NativeTypeName("const char *")] sbyte* file_path);
+        public static extern SUResult SUImageCreateFromFile(SUImageRef* image, [NativeTypeName("const char *")] sbyte* file_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageCreateFromImageRep([NativeTypeName("SUImageRef *")] SUImageRef* image, SUImageRepRef image_rep);
+        public static extern SUResult SUImageCreateFromImageRep(SUImageRef* image, SUImageRepRef image_rep);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageGetImageRep(SUImageRef image, [NativeTypeName("SUImageRepRef *")] SUImageRepRef* image_rep);
+        public static extern SUResult SUImageGetImageRep(SUImageRef image, SUImageRepRef* image_rep);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageGetName(SUImageRef image, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUImageGetName(SUImageRef image, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2944,11 +2881,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageGetFileName(SUImageRef image, [NativeTypeName("SUStringRef *")] SUStringRef* file_name);
+        public static extern SUResult SUImageGetFileName(SUImageRef image, SUStringRef* file_name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageGetDimensions(SUImageRef image, [NativeTypeName("double *")] double* width, [NativeTypeName("double *")] double* height);
+        public static extern SUResult SUImageGetDimensions(SUImageRef image, double* width, double* height);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2960,7 +2897,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageGetData(SUImageRef image, [NativeTypeName("size_t")] nuint data_size, [NativeTypeName("SUByte []")] byte* pixel_data);
+        public static extern SUResult SUImageGetData(SUImageRef image, [NativeTypeName("size_t")] nuint data_size, [NativeTypeName("SUByte[]")] byte* pixel_data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("struct SUColorOrder")]
@@ -2968,11 +2905,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageRepCreate([NativeTypeName("SUImageRepRef *")] SUImageRepRef* image);
+        public static extern SUResult SUImageRepCreate(SUImageRepRef* image);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageRepRelease([NativeTypeName("SUImageRepRef *")] SUImageRepRef* image);
+        public static extern SUResult SUImageRepRelease(SUImageRepRef* image);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -2980,7 +2917,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageRepSetData(SUImageRepRef image, [NativeTypeName("size_t")] nuint width, [NativeTypeName("size_t")] nuint height, [NativeTypeName("size_t")] nuint bits_per_pixel, [NativeTypeName("size_t")] nuint row_padding, [NativeTypeName("const SUByte []")] byte* pixel_data);
+        public static extern SUResult SUImageRepSetData(SUImageRepRef image, [NativeTypeName("size_t")] nuint width, [NativeTypeName("size_t")] nuint height, [NativeTypeName("size_t")] nuint bits_per_pixel, [NativeTypeName("size_t")] nuint row_padding, [NativeTypeName("const SUByte[]")] byte* pixel_data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3012,27 +2949,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageRepGetData(SUImageRepRef image, [NativeTypeName("size_t")] nuint data_size, [NativeTypeName("SUByte []")] byte* pixel_data);
+        public static extern SUResult SUImageRepGetData(SUImageRepRef image, [NativeTypeName("size_t")] nuint data_size, [NativeTypeName("SUByte[]")] byte* pixel_data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageRepGetDataAsColors(SUImageRepRef image, [NativeTypeName("SUColor []")] SUColor* color_data);
+        public static extern SUResult SUImageRepGetDataAsColors(SUImageRepRef image, [NativeTypeName("SUColor[]")] SUColor* color_data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUImageRepGetColorAtUV(SUImageRepRef image, double u, double v, [NativeTypeName("bool")] byte bilinear, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUImageRepGetColorAtUV(SUImageRepRef image, double u, double v, [NativeTypeName("bool")] byte bilinear, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathCreate([NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* instance_path);
+        public static extern SUResult SUInstancePathCreate(SUInstancePathRef* instance_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathCreateCopy([NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* instance_path, SUInstancePathRef source_path);
+        public static extern SUResult SUInstancePathCreateCopy(SUInstancePathRef* instance_path, SUInstancePathRef source_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathRelease([NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* instance_path);
+        public static extern SUResult SUInstancePathRelease(SUInstancePathRef* instance_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3064,35 +3001,35 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathGetInstanceAtDepth(SUInstancePathRef instance_path, [NativeTypeName("size_t")] nuint depth, [NativeTypeName("SUComponentInstanceRef *")] SUComponentInstanceRef* instance);
+        public static extern SUResult SUInstancePathGetInstanceAtDepth(SUInstancePathRef instance_path, [NativeTypeName("size_t")] nuint depth, SUComponentInstanceRef* instance);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathGetLeafAsEntity(SUInstancePathRef instance_path, [NativeTypeName("SUEntityRef *")] SUEntityRef* entity);
+        public static extern SUResult SUInstancePathGetLeafAsEntity(SUInstancePathRef instance_path, SUEntityRef* entity);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathGetLeaf(SUInstancePathRef instance_path, [NativeTypeName("SUDrawingElementRef *")] SUDrawingElementRef* drawing_element);
+        public static extern SUResult SUInstancePathGetLeaf(SUInstancePathRef instance_path, SUDrawingElementRef* drawing_element);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathIsValid(SUInstancePathRef instance_path, [NativeTypeName("bool *")] bool* valid);
+        public static extern SUResult SUInstancePathIsValid(SUInstancePathRef instance_path, bool* valid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathIsEmpty(SUInstancePathRef instance_path, [NativeTypeName("bool *")] bool* empty);
+        public static extern SUResult SUInstancePathIsEmpty(SUInstancePathRef instance_path, bool* empty);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathContains(SUInstancePathRef instance_path, SUEntityRef entity, [NativeTypeName("bool *")] bool* contains);
+        public static extern SUResult SUInstancePathContains(SUInstancePathRef instance_path, SUEntityRef entity, bool* contains);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathGetPersistentID(SUInstancePathRef instance_path, [NativeTypeName("SUStringRef *")] SUStringRef* pid);
+        public static extern SUResult SUInstancePathGetPersistentID(SUInstancePathRef instance_path, SUStringRef* pid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUInstancePathGetPersistentIDAtDepth(SUInstancePathRef instance_path, [NativeTypeName("size_t")] nuint depth, [NativeTypeName("SUStringRef *")] SUStringRef* pid);
+        public static extern SUResult SUInstancePathGetPersistentIDAtDepth(SUInstancePathRef instance_path, [NativeTypeName("size_t")] nuint depth, SUStringRef* pid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SULayerToEntity(SULayerRef layer);
@@ -3102,19 +3039,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerCreate([NativeTypeName("SULayerRef *")] SULayerRef* layer);
+        public static extern SUResult SULayerCreate(SULayerRef* layer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerRelease([NativeTypeName("SULayerRef *")] SULayerRef* layer);
+        public static extern SUResult SULayerRelease(SULayerRef* layer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGetName(SULayerRef layer, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SULayerGetName(SULayerRef layer, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGetDisplayName(SULayerRef layer, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SULayerGetDisplayName(SULayerRef layer, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3122,11 +3059,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGetMaterial(SULayerRef layer, [NativeTypeName("SUMaterialRef *")] SUMaterialRef* material);
+        public static extern SUResult SULayerGetMaterial(SULayerRef layer, SUMaterialRef* material);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGetVisibility(SULayerRef layer, [NativeTypeName("bool *")] bool* visible);
+        public static extern SUResult SULayerGetVisibility(SULayerRef layer, bool* visible);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3134,7 +3071,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGetLineStyle(SULayerRef layer, [NativeTypeName("SULineStyleRef *")] SULineStyleRef* line_style);
+        public static extern SUResult SULayerGetLineStyle(SULayerRef layer, SULineStyleRef* line_style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3154,7 +3091,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGetParentLayerFolder(SULayerRef layer, [NativeTypeName("SULayerFolderRef *")] SULayerFolderRef* layer_folder);
+        public static extern SUResult SULayerGetParentLayerFolder(SULayerRef layer, SULayerFolderRef* layer_folder);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SULayerFolderToEntity(SULayerFolderRef layer_folder);
@@ -3164,15 +3101,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderCreate([NativeTypeName("SULayerFolderRef *")] SULayerFolderRef* layer_folder, [NativeTypeName("const char *")] sbyte* name);
+        public static extern SUResult SULayerFolderCreate(SULayerFolderRef* layer_folder, [NativeTypeName("const char *")] sbyte* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderRelease([NativeTypeName("SULayerFolderRef *")] SULayerFolderRef* layer_folder);
+        public static extern SUResult SULayerFolderRelease(SULayerFolderRef* layer_folder);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderGetName(SULayerFolderRef layer_folder, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SULayerFolderGetName(SULayerFolderRef layer_folder, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3180,7 +3117,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderGetVisibility(SULayerFolderRef layer_folder, [NativeTypeName("bool *")] bool* visible);
+        public static extern SUResult SULayerFolderGetVisibility(SULayerFolderRef layer_folder, bool* visible);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3188,7 +3125,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerGroupGetVisibleOnNewScenes(SULayerFolderRef layer_folder, [NativeTypeName("bool *")] bool* visible);
+        public static extern SUResult SULayerGroupGetVisibleOnNewScenes(SULayerFolderRef layer_folder, bool* visible);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3208,7 +3145,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderGetLayers(SULayerFolderRef layer_folder, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef *")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SULayerFolderGetLayers(SULayerFolderRef layer_folder, [NativeTypeName("size_t")] nuint len, SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3220,11 +3157,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderGetLayerFolders(SULayerFolderRef layer_folder, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerFolderRef *")] SULayerFolderRef* layer_folders, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SULayerFolderGetLayerFolders(SULayerFolderRef layer_folder, [NativeTypeName("size_t")] nuint len, SULayerFolderRef* layer_folders, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULayerFolderGetParentLayerFolder(SULayerFolderRef layer_folder, [NativeTypeName("SULayerFolderRef *")] SULayerFolderRef* parent);
+        public static extern SUResult SULayerFolderGetParentLayerFolder(SULayerFolderRef layer_folder, SULayerFolderRef* parent);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SULineStyleToEntity(SULineStyleRef line_style);
@@ -3234,7 +3171,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULineStyleGetName(SULineStyleRef line_style, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SULineStyleGetName(SULineStyleRef line_style, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3242,15 +3179,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULineStylesGetLineStyleNames(SULineStylesRef line_styles, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef []")] SUStringRef* line_styles_provider_names, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SULineStylesGetLineStyleNames(SULineStylesRef line_styles, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef[]")] SUStringRef* line_styles_provider_names, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULineStylesGetLineStyleByName(SULineStylesRef line_styles, [NativeTypeName("const char *")] sbyte* name, [NativeTypeName("SULineStyleRef *")] SULineStyleRef* line_style);
+        public static extern SUResult SULineStylesGetLineStyleByName(SULineStylesRef line_styles, [NativeTypeName("const char *")] sbyte* name, SULineStyleRef* line_style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULocationGetLatLong(SULocationRef location, [NativeTypeName("double *")] double* latitude, [NativeTypeName("double *")] double* longitude);
+        public static extern SUResult SULocationGetLatLong(SULocationRef location, double* latitude, double* longitude);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3272,11 +3209,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopGetVertices(SULoopRef loop, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUVertexRef []")] SUVertexRef* vertices, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SULoopGetVertices(SULoopRef loop, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUVertexRef[]")] SUVertexRef* vertices, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopGetEdges(SULoopRef loop, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef []")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SULoopGetEdges(SULoopRef loop, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef[]")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3284,23 +3221,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopIsEdgeReversed(SULoopRef loop, SUEdgeRef edge, [NativeTypeName("bool *")] bool* reversed);
+        public static extern SUResult SULoopIsEdgeReversed(SULoopRef loop, SUEdgeRef edge, bool* reversed);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopGetFace(SULoopRef loop, [NativeTypeName("SUFaceRef *")] SUFaceRef* face);
+        public static extern SUResult SULoopGetFace(SULoopRef loop, SUFaceRef* face);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopIsConvex(SULoopRef loop, [NativeTypeName("bool *")] bool* convex);
+        public static extern SUResult SULoopIsConvex(SULoopRef loop, bool* convex);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopIsOuterLoop(SULoopRef loop, [NativeTypeName("bool *")] bool* outer_loop);
+        public static extern SUResult SULoopIsOuterLoop(SULoopRef loop, bool* outer_loop);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULoopGetEdgeUses(SULoopRef loop, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeUseRef []")] SUEdgeUseRef* edge_uses, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SULoopGetEdgeUses(SULoopRef loop, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeUseRef[]")] SUEdgeUseRef* edge_uses, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUMaterialToEntity(SUMaterialRef material);
@@ -3310,11 +3247,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialCreate([NativeTypeName("SUMaterialRef *")] SUMaterialRef* material);
+        public static extern SUResult SUMaterialCreate(SUMaterialRef* material);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialRelease([NativeTypeName("SUMaterialRef *")] SUMaterialRef* material);
+        public static extern SUResult SUMaterialRelease(SUMaterialRef* material);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3322,11 +3259,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetName(SUMaterialRef material, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUMaterialGetName(SUMaterialRef material, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetNameLegacyBehavior(SUMaterialRef material, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUMaterialGetNameLegacyBehavior(SUMaterialRef material, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3334,7 +3271,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetColor(SUMaterialRef material, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUMaterialGetColor(SUMaterialRef material, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3342,11 +3279,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetTexture(SUMaterialRef material, [NativeTypeName("SUTextureRef *")] SUTextureRef* texture);
+        public static extern SUResult SUMaterialGetTexture(SUMaterialRef material, SUTextureRef* texture);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetOpacity(SUMaterialRef material, [NativeTypeName("double *")] double* alpha);
+        public static extern SUResult SUMaterialGetOpacity(SUMaterialRef material, double* alpha);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3354,7 +3291,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetUseOpacity(SUMaterialRef material, [NativeTypeName("bool *")] bool* use_opacity);
+        public static extern SUResult SUMaterialGetUseOpacity(SUMaterialRef material, bool* use_opacity);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3370,7 +3307,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialIsDrawnTransparent(SUMaterialRef material, [NativeTypeName("bool *")] bool* transparency);
+        public static extern SUResult SUMaterialIsDrawnTransparent(SUMaterialRef material, bool* transparency);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3386,23 +3323,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMaterialGetColorizeDeltas(SUMaterialRef material, [NativeTypeName("double *")] double* hue, [NativeTypeName("double *")] double* saturation, [NativeTypeName("double *")] double* lightness);
+        public static extern SUResult SUMaterialGetColorizeDeltas(SUMaterialRef material, double* hue, double* saturation, double* lightness);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperCreate([NativeTypeName("SUMeshHelperRef *")] SUMeshHelperRef* mesh_ref, SUFaceRef face_ref);
+        public static extern SUResult SUMeshHelperCreate(SUMeshHelperRef* mesh_ref, SUFaceRef face_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperCreateWithTextureWriter([NativeTypeName("SUMeshHelperRef *")] SUMeshHelperRef* mesh_ref, SUFaceRef face_ref, SUTextureWriterRef texture_writer_ref);
+        public static extern SUResult SUMeshHelperCreateWithTextureWriter(SUMeshHelperRef* mesh_ref, SUFaceRef face_ref, SUTextureWriterRef texture_writer_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperCreateWithUVHelper([NativeTypeName("SUMeshHelperRef *")] SUMeshHelperRef* mesh_ref, SUFaceRef face_ref, SUUVHelperRef uv_helper_ref);
+        public static extern SUResult SUMeshHelperCreateWithUVHelper(SUMeshHelperRef* mesh_ref, SUFaceRef face_ref, SUUVHelperRef uv_helper_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperRelease([NativeTypeName("SUMeshHelperRef *")] SUMeshHelperRef* mesh_ref);
+        public static extern SUResult SUMeshHelperRelease(SUMeshHelperRef* mesh_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3414,62 +3351,62 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperGetVertexIndices(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("size_t []")] nuint* indices, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUMeshHelperGetVertexIndices(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("size_t[]")] nuint* indices, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperGetVertices(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D []")] SUPoint3D* vertices, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUMeshHelperGetVertices(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D[]")] SUPoint3D* vertices, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperGetFrontSTQCoords(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D []")] SUPoint3D* stq, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUMeshHelperGetFrontSTQCoords(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D[]")] SUPoint3D* stq, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperGetBackSTQCoords(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D []")] SUPoint3D* stq, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUMeshHelperGetBackSTQCoords(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D[]")] SUPoint3D* stq, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUMeshHelperGetNormals(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUVector3D []")] SUVector3D* normals, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUMeshHelperGetNormals(SUMeshHelperRef mesh_ref, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUVector3D[]")] SUVector3D* normals, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelCreate([NativeTypeName("SUModelRef *")] SUModelRef* model);
+        public static extern SUResult SUModelCreate(SUModelRef* model);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelCreateFromFile([NativeTypeName("SUModelRef *")] SUModelRef* model, [NativeTypeName("const char *")] sbyte* file_path);
+        public static extern SUResult SUModelCreateFromFile(SUModelRef* model, [NativeTypeName("const char *")] sbyte* file_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelCreateFromFileWithStatus([NativeTypeName("SUModelRef *")] SUModelRef* model, [NativeTypeName("const char *")] sbyte* file_path, [NativeTypeName("enum SUModelLoadStatus *")] SUModelLoadStatus* status);
+        public static extern SUResult SUModelCreateFromFileWithStatus(SUModelRef* model, [NativeTypeName("const char *")] sbyte* file_path, [NativeTypeName("enum SUModelLoadStatus *")] SUModelLoadStatus* status);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelCreateFromBuffer([NativeTypeName("SUModelRef *")] SUModelRef* model, [NativeTypeName("const unsigned char *")] byte* buffer, [NativeTypeName("size_t")] nuint buffer_size);
+        public static extern SUResult SUModelCreateFromBuffer(SUModelRef* model, [NativeTypeName("const unsigned char *")] byte* buffer, [NativeTypeName("size_t")] nuint buffer_size);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelCreateFromBufferWithStatus([NativeTypeName("SUModelRef *")] SUModelRef* model, [NativeTypeName("const unsigned char *")] byte* buffer, [NativeTypeName("size_t")] nuint buffer_size, [NativeTypeName("enum SUModelLoadStatus *")] SUModelLoadStatus* status);
+        public static extern SUResult SUModelCreateFromBufferWithStatus(SUModelRef* model, [NativeTypeName("const unsigned char *")] byte* buffer, [NativeTypeName("size_t")] nuint buffer_size, [NativeTypeName("enum SUModelLoadStatus *")] SUModelLoadStatus* status);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelRelease([NativeTypeName("SUModelRef *")] SUModelRef* model);
+        public static extern SUResult SUModelRelease(SUModelRef* model);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUModelRef SUModelFromExisting([NativeTypeName("uintptr_t")] nuint data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetEntities(SUModelRef model, [NativeTypeName("SUEntitiesRef *")] SUEntitiesRef* entities);
+        public static extern SUResult SUModelGetEntities(SUModelRef model, SUEntitiesRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetActiveEntities(SUModelRef model, [NativeTypeName("SUEntitiesRef *")] SUEntitiesRef* entities);
+        public static extern SUResult SUModelGetActiveEntities(SUModelRef model, SUEntitiesRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetActivePath(SUModelRef model, [NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* instance_path);
+        public static extern SUResult SUModelGetActivePath(SUModelRef model, SUInstancePathRef* instance_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3477,11 +3414,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUMaterialRef []")] SUMaterialRef* materials, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUMaterialRef[]")] SUMaterialRef* materials, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelAddMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUMaterialRef []")] SUMaterialRef* materials);
+        public static extern SUResult SUModelAddMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUMaterialRef[]")] SUMaterialRef* materials);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3489,7 +3426,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetComponentDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef []")] SUComponentDefinitionRef* definitions, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetComponentDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef[]")] SUComponentDefinitionRef* definitions, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3497,7 +3434,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetGroupDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef []")] SUComponentDefinitionRef* definitions, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetGroupDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef[]")] SUComponentDefinitionRef* definitions, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3505,15 +3442,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetImageDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef []")] SUComponentDefinitionRef* definitions, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetImageDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef[]")] SUComponentDefinitionRef* definitions, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelAddComponentDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUComponentDefinitionRef []")] SUComponentDefinitionRef* components);
+        public static extern SUResult SUModelAddComponentDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUComponentDefinitionRef[]")] SUComponentDefinitionRef* components);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelRemoveComponentDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef []")] SUComponentDefinitionRef* components);
+        public static extern SUResult SUModelRemoveComponentDefinitions(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUComponentDefinitionRef[]")] SUComponentDefinitionRef* components);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3525,11 +3462,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetCamera(SUModelRef model, [NativeTypeName("SUCameraRef *")] SUCameraRef* camera);
+        public static extern SUResult SUModelGetCamera(SUModelRef model, SUCameraRef* camera);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelSetCamera(SUModelRef model, [NativeTypeName("SUCameraRef *")] SUCameraRef* camera);
+        public static extern SUResult SUModelSetCamera(SUModelRef model, SUCameraRef* camera);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3541,23 +3478,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef []")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef[]")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelAddLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SULayerRef []")] SULayerRef* layers);
+        public static extern SUResult SUModelAddLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SULayerRef[]")] SULayerRef* layers);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetDefaultLayer(SUModelRef model, [NativeTypeName("SULayerRef *")] SULayerRef* layer);
+        public static extern SUResult SUModelGetDefaultLayer(SUModelRef model, SULayerRef* layer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelRemoveLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef []")] SULayerRef* layers);
+        public static extern SUResult SUModelRemoveLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef[]")] SULayerRef* layers);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetActiveLayer(SUModelRef model, [NativeTypeName("SULayerRef *")] SULayerRef* layer);
+        public static extern SUResult SUModelGetActiveLayer(SUModelRef model, SULayerRef* layer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3565,7 +3502,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetVersion(SUModelRef model, [NativeTypeName("int *")] int* major, [NativeTypeName("int *")] int* minor, [NativeTypeName("int *")] int* build);
+        public static extern SUResult SUModelGetVersion(SUModelRef model, int* major, int* minor, int* build);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3573,19 +3510,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetAttributeDictionaries(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUAttributeDictionaryRef []")] SUAttributeDictionaryRef* dictionaries, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetAttributeDictionaries(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUAttributeDictionaryRef[]")] SUAttributeDictionaryRef* dictionaries, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetAttributeDictionary(SUModelRef model, [NativeTypeName("const char *")] sbyte* name, [NativeTypeName("SUAttributeDictionaryRef *")] SUAttributeDictionaryRef* dictionary);
+        public static extern SUResult SUModelGetAttributeDictionary(SUModelRef model, [NativeTypeName("const char *")] sbyte* name, SUAttributeDictionaryRef* dictionary);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelIsGeoReferenced(SUModelRef model, [NativeTypeName("bool *")] bool* is_geo_ref);
+        public static extern SUResult SUModelIsGeoReferenced(SUModelRef model, bool* is_geo_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetLocation(SUModelRef model, [NativeTypeName("SULocationRef *")] SULocationRef* location);
+        public static extern SUResult SUModelGetLocation(SUModelRef model, SULocationRef* location);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3597,19 +3534,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetRenderingOptions(SUModelRef model, [NativeTypeName("SURenderingOptionsRef *")] SURenderingOptionsRef* rendering_options);
+        public static extern SUResult SUModelGetRenderingOptions(SUModelRef model, SURenderingOptionsRef* rendering_options);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetShadowInfo(SUModelRef model, [NativeTypeName("SUShadowInfoRef *")] SUShadowInfoRef* shadow_info);
+        public static extern SUResult SUModelGetShadowInfo(SUModelRef model, SUShadowInfoRef* shadow_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetOptionsManager(SUModelRef model, [NativeTypeName("SUOptionsManagerRef *")] SUOptionsManagerRef* options_manager);
+        public static extern SUResult SUModelGetOptionsManager(SUModelRef model, SUOptionsManagerRef* options_manager);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetNorthCorrection(SUModelRef model, [NativeTypeName("double *")] double* north_correction);
+        public static extern SUResult SUModelGetNorthCorrection(SUModelRef model, double* north_correction);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3617,23 +3554,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetScenes(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUSceneRef []")] SUSceneRef* scenes, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetScenes(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUSceneRef[]")] SUSceneRef* scenes, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetSceneWithName(SUModelRef model, [NativeTypeName("const char *")] sbyte* name, [NativeTypeName("SUSceneRef *")] SUSceneRef* scene);
+        public static extern SUResult SUModelGetSceneWithName(SUModelRef model, [NativeTypeName("const char *")] sbyte* name, SUSceneRef* scene);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelAddScenes(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUSceneRef []")] SUSceneRef* scenes);
+        public static extern SUResult SUModelAddScenes(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const SUSceneRef[]")] SUSceneRef* scenes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelAddScene(SUModelRef model, int index, SUSceneRef scene, [NativeTypeName("int *")] int* out_index);
+        public static extern SUResult SUModelAddScene(SUModelRef model, int index, SUSceneRef scene, int* out_index);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetActiveScene(SUModelRef model, [NativeTypeName("SUSceneRef *")] SUSceneRef* scene);
+        public static extern SUResult SUModelGetActiveScene(SUModelRef model, SUSceneRef* scene);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3641,11 +3578,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelAddMatchPhotoScene(SUModelRef model, [NativeTypeName("const char *")] sbyte* image_file, SUCameraRef camera, [NativeTypeName("const char *")] sbyte* scene_name, [NativeTypeName("SUSceneRef *")] SUSceneRef* scene);
+        public static extern SUResult SUModelAddMatchPhotoScene(SUModelRef model, [NativeTypeName("const char *")] sbyte* image_file, SUCameraRef camera, [NativeTypeName("const char *")] sbyte* scene_name, SUSceneRef* scene);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetName(SUModelRef model, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUModelGetName(SUModelRef model, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3653,15 +3590,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetPath(SUModelRef model, [NativeTypeName("SUStringRef *")] SUStringRef* path);
+        public static extern SUResult SUModelGetPath(SUModelRef model, SUStringRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetTitle(SUModelRef model, [NativeTypeName("SUStringRef *")] SUStringRef* title);
+        public static extern SUResult SUModelGetTitle(SUModelRef model, SUStringRef* title);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetDescription(SUModelRef model, [NativeTypeName("SUStringRef *")] SUStringRef* description);
+        public static extern SUResult SUModelGetDescription(SUModelRef model, SUStringRef* description);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3673,19 +3610,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetClassifications(SUModelRef model, [NativeTypeName("SUClassificationsRef *")] SUClassificationsRef* classifications);
+        public static extern SUResult SUModelGetClassifications(SUModelRef model, SUClassificationsRef* classifications);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetAxes(SUModelRef model, [NativeTypeName("SUAxesRef *")] SUAxesRef* axes);
+        public static extern SUResult SUModelGetAxes(SUModelRef model, SUAxesRef* axes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetStyles(SUModelRef model, [NativeTypeName("SUStylesRef *")] SUStylesRef* styles);
+        public static extern SUResult SUModelGetStyles(SUModelRef model, SUStylesRef* styles);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetInstancePathByPid(SUModelRef model, SUStringRef pid_ref, [NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* instance_path_ref);
+        public static extern SUResult SUModelGetInstancePathByPid(SUModelRef model, SUStringRef pid_ref, SUInstancePathRef* instance_path_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3693,19 +3630,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetFonts(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFontRef []")] SUFontRef* fonts, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetFonts(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFontRef[]")] SUFontRef* fonts, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetDimensionStyle(SUModelRef model, [NativeTypeName("SUDimensionStyleRef *")] SUDimensionStyleRef* style);
+        public static extern SUResult SUModelGetDimensionStyle(SUModelRef model, SUDimensionStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetLengthFormatter(SUModelRef model, [NativeTypeName("SULengthFormatterRef *")] SULengthFormatterRef* formatter);
+        public static extern SUResult SUModelGetLengthFormatter(SUModelRef model, SULengthFormatterRef* formatter);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGenerateUniqueMaterialName(SUModelRef model, [NativeTypeName("const char *")] sbyte* in_name, [NativeTypeName("SUStringRef *")] SUStringRef* out_name);
+        public static extern SUResult SUModelGenerateUniqueMaterialName(SUModelRef model, [NativeTypeName("const char *")] sbyte* in_name, SUStringRef* out_name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3717,23 +3654,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetLineStyles(SUModelRef model, [NativeTypeName("SULineStylesRef *")] SULineStylesRef* line_styles);
+        public static extern SUResult SUModelGetLineStyles(SUModelRef model, SULineStylesRef* line_styles);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelLoadDefinition(SUModelRef model, [NativeTypeName("const char *")] sbyte* filename, [NativeTypeName("SUComponentDefinitionRef *")] SUComponentDefinitionRef* definition);
+        public static extern SUResult SUModelLoadDefinition(SUModelRef model, [NativeTypeName("const char *")] sbyte* filename, SUComponentDefinitionRef* definition);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelLoadDefinitionWithStatus(SUModelRef model, [NativeTypeName("const char *")] sbyte* filename, [NativeTypeName("SUComponentDefinitionRef *")] SUComponentDefinitionRef* definition, [NativeTypeName("enum SUModelLoadStatus *")] SUModelLoadStatus* status);
+        public static extern SUResult SUModelLoadDefinitionWithStatus(SUModelRef model, [NativeTypeName("const char *")] sbyte* filename, SUComponentDefinitionRef* definition, [NativeTypeName("enum SUModelLoadStatus *")] SUModelLoadStatus* status);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelRemoveMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUMaterialRef []")] SUMaterialRef* materials);
+        public static extern SUResult SUModelRemoveMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUMaterialRef[]")] SUMaterialRef* materials);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelRemoveScenes(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUSceneRef []")] SUSceneRef* scenes);
+        public static extern SUResult SUModelRemoveScenes(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUSceneRef[]")] SUSceneRef* scenes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3741,27 +3678,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetAllMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUMaterialRef []")] SUMaterialRef* materials, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetAllMaterials(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUMaterialRef[]")] SUMaterialRef* materials, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetGuid(SUModelRef model, [NativeTypeName("SUStringRef *")] SUStringRef* guid);
+        public static extern SUResult SUModelGetGuid(SUModelRef model, SUStringRef* guid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetLayersByPersistentIDs(SUModelRef model, [NativeTypeName("size_t")] nuint num_pids, [NativeTypeName("const int64_t []")] long* pids, [NativeTypeName("SULayerRef []")] SULayerRef* layers);
+        public static extern SUResult SUModelGetLayersByPersistentIDs(SUModelRef model, [NativeTypeName("size_t")] nuint num_pids, [NativeTypeName("const int64_t[]")] long* pids, [NativeTypeName("SULayerRef[]")] SULayerRef* layers);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelIsDrawingElementVisible(SUModelRef model, SUInstancePathRef path, [NativeTypeName("bool *")] bool* visible);
+        public static extern SUResult SUModelIsDrawingElementVisible(SUModelRef model, SUInstancePathRef path, bool* visible);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetEntitiesByPersistentIDs(SUModelRef model, [NativeTypeName("size_t")] nuint num_pids, [NativeTypeName("const int64_t []")] long* pids, [NativeTypeName("SUEntityRef []")] SUEntityRef* entities);
+        public static extern SUResult SUModelGetEntitiesByPersistentIDs(SUModelRef model, [NativeTypeName("size_t")] nuint num_pids, [NativeTypeName("const int64_t[]")] long* pids, [NativeTypeName("SUEntityRef[]")] SUEntityRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetSelection(SUModelRef model, [NativeTypeName("SUSelectionRef *")] SUSelectionRef* selection);
+        public static extern SUResult SUModelGetSelection(SUModelRef model, SUSelectionRef* selection);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3769,7 +3706,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetLayerFolders(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerFolderRef *")] SULayerFolderRef* layer_folders, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetLayerFolders(SUModelRef model, [NativeTypeName("size_t")] nuint len, SULayerFolderRef* layer_folders, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3789,15 +3726,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetTopLevelLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef []")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUModelGetTopLevelLayers(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef[]")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelRemoveLayerFolders(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerFolderRef []")] SULayerFolderRef* layer_folders);
+        public static extern SUResult SUModelRemoveLayerFolders(SUModelRef model, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerFolderRef[]")] SULayerFolderRef* layer_folders);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUModelGetEntitiesOfTypeByPersistentIDs(SUModelRef model, [NativeTypeName("const uint32_t")] uint type_flags, [NativeTypeName("const size_t")] nuint num_pids, [NativeTypeName("const int64_t []")] long* pids, [NativeTypeName("SUEntityRef []")] SUEntityRef* entities);
+        public static extern SUResult SUModelGetEntitiesOfTypeByPersistentIDs(SUModelRef model, [NativeTypeName("const uint32_t")] uint type_flags, [NativeTypeName("const size_t")] nuint num_pids, [NativeTypeName("const int64_t[]")] long* pids, [NativeTypeName("SUEntityRef[]")] SUEntityRef* entities);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3805,11 +3742,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOpeningGetPoints(SUOpeningRef opening, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D []")] SUPoint3D* points, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUOpeningGetPoints(SUOpeningRef opening, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D[]")] SUPoint3D* points, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOpeningRelease([NativeTypeName("SUOpeningRef *")] SUOpeningRef* opening);
+        public static extern SUResult SUOpeningRelease(SUOpeningRef* opening);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3817,11 +3754,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOptionsManagerGetOptionsProviderNames(SUOptionsManagerRef options_manager, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef []")] SUStringRef* options_provider_names, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUOptionsManagerGetOptionsProviderNames(SUOptionsManagerRef options_manager, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef[]")] SUStringRef* options_provider_names, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOptionsManagerGetOptionsProviderByName(SUOptionsManagerRef options_manager, [NativeTypeName("const char *")] sbyte* name, [NativeTypeName("SUOptionsProviderRef *")] SUOptionsProviderRef* options_provider);
+        public static extern SUResult SUOptionsManagerGetOptionsProviderByName(SUOptionsManagerRef options_manager, [NativeTypeName("const char *")] sbyte* name, SUOptionsProviderRef* options_provider);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3829,11 +3766,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOptionsProviderGetKeys(SUOptionsProviderRef options_provider, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef []")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUOptionsProviderGetKeys(SUOptionsProviderRef options_provider, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef[]")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOptionsProviderGetValue(SUOptionsProviderRef options_provider, [NativeTypeName("const char *")] sbyte* key, [NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* value);
+        public static extern SUResult SUOptionsProviderGetValue(SUOptionsProviderRef options_provider, [NativeTypeName("const char *")] sbyte* key, SUTypedValueRef* value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3841,7 +3778,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUOptionsProviderGetName(SUOptionsProviderRef options_provider, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUOptionsProviderGetName(SUOptionsProviderRef options_provider, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUPolyline3dToEntity(SUPolyline3dRef line);
@@ -3857,15 +3794,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPolyline3dCreate([NativeTypeName("SUPolyline3dRef *")] SUPolyline3dRef* polyline);
+        public static extern SUResult SUPolyline3dCreate(SUPolyline3dRef* polyline);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPolyline3dRelease([NativeTypeName("SUPolyline3dRef *")] SUPolyline3dRef* polyline);
+        public static extern SUResult SUPolyline3dRelease(SUPolyline3dRef* polyline);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPolyline3dAddPoints(SUPolyline3dRef polyline, [NativeTypeName("size_t")] nuint num_points, [NativeTypeName("struct SUPoint3D []")] SUPoint3D* points);
+        public static extern SUResult SUPolyline3dAddPoints(SUPolyline3dRef polyline, [NativeTypeName("size_t")] nuint num_points, [NativeTypeName("struct SUPoint3D[]")] SUPoint3D* points);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3873,7 +3810,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUPolyline3dGetPoints(SUPolyline3dRef line, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D []")] SUPoint3D* points, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUPolyline3dGetPoints(SUPolyline3dRef line, [NativeTypeName("size_t")] nuint len, [NativeTypeName("struct SUPoint3D[]")] SUPoint3D* points, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3881,7 +3818,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SURenderingOptionsGetKeys(SURenderingOptionsRef rendering_options, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef []")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SURenderingOptionsGetKeys(SURenderingOptionsRef rendering_options, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef[]")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3889,7 +3826,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SURenderingOptionsGetValue(SURenderingOptionsRef rendering_options, [NativeTypeName("const char *")] sbyte* key, [NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* value_out);
+        public static extern SUResult SURenderingOptionsGetValue(SURenderingOptionsRef rendering_options, [NativeTypeName("const char *")] sbyte* key, SUTypedValueRef* value_out);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUSceneToEntity(SUSceneRef scene);
@@ -3899,15 +3836,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneCreate([NativeTypeName("SUSceneRef *")] SUSceneRef* scene);
+        public static extern SUResult SUSceneCreate(SUSceneRef* scene);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneRelease([NativeTypeName("SUSceneRef *")] SUSceneRef* scene);
+        public static extern SUResult SUSceneRelease(SUSceneRef* scene);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseCamera(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_camera);
+        public static extern SUResult SUSceneGetUseCamera(SUSceneRef scene, bool* use_camera);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3915,7 +3852,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetCamera(SUSceneRef scene, [NativeTypeName("SUCameraRef *")] SUCameraRef* camera);
+        public static extern SUResult SUSceneGetCamera(SUSceneRef scene, SUCameraRef* camera);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3923,7 +3860,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetIncludeInAnimation(SUSceneRef scene, [NativeTypeName("bool *")] bool* include_in_animation);
+        public static extern SUResult SUSceneGetIncludeInAnimation(SUSceneRef scene, bool* include_in_animation);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3931,7 +3868,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetName(SUSceneRef scene, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUSceneGetName(SUSceneRef scene, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3939,15 +3876,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetRenderingOptions(SUSceneRef scene, [NativeTypeName("SURenderingOptionsRef *")] SURenderingOptionsRef* options);
+        public static extern SUResult SUSceneGetRenderingOptions(SUSceneRef scene, SURenderingOptionsRef* options);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetShadowInfo(SUSceneRef scene, [NativeTypeName("SUShadowInfoRef *")] SUShadowInfoRef* shadow_info);
+        public static extern SUResult SUSceneGetShadowInfo(SUSceneRef scene, SUShadowInfoRef* shadow_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseShadowInfo(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_shadow_info);
+        public static extern SUResult SUSceneGetUseShadowInfo(SUSceneRef scene, bool* use_shadow_info);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3955,7 +3892,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseRenderingOptions(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_rendering_options);
+        public static extern SUResult SUSceneGetUseRenderingOptions(SUSceneRef scene, bool* use_rendering_options);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3963,7 +3900,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseHidden(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_hidden);
+        public static extern SUResult SUSceneGetUseHidden(SUSceneRef scene, bool* use_hidden);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3971,7 +3908,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseHiddenGeometry(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_hidden);
+        public static extern SUResult SUSceneGetUseHiddenGeometry(SUSceneRef scene, bool* use_hidden);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3979,7 +3916,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseHiddenObjects(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_hidden);
+        public static extern SUResult SUSceneGetUseHiddenObjects(SUSceneRef scene, bool* use_hidden);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3987,7 +3924,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseHiddenLayers(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_hidden_layers);
+        public static extern SUResult SUSceneGetUseHiddenLayers(SUSceneRef scene, bool* use_hidden_layers);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -3995,7 +3932,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseSectionPlanes(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_section_planes);
+        public static extern SUResult SUSceneGetUseSectionPlanes(SUSceneRef scene, bool* use_section_planes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4007,7 +3944,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetLayers(SUSceneRef scene, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef []")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUSceneGetLayers(SUSceneRef scene, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerRef[]")] SULayerRef* layers, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4027,7 +3964,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetLayerFolders(SUSceneRef scene, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerFolderRef []")] SULayerFolderRef* layer_folders, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUSceneGetLayerFolders(SUSceneRef scene, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULayerFolderRef[]")] SULayerFolderRef* layer_folders, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4043,7 +3980,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetAxes(SUSceneRef scene, [NativeTypeName("SUAxesRef *")] SUAxesRef* axes);
+        public static extern SUResult SUSceneGetAxes(SUSceneRef scene, SUAxesRef* axes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4051,7 +3988,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetUseAxes(SUSceneRef scene, [NativeTypeName("bool *")] bool* use_axes);
+        public static extern SUResult SUSceneGetUseAxes(SUSceneRef scene, bool* use_axes);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4059,7 +3996,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetHiddenEntities(SUSceneRef scene, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef []")] SUEntityRef* entities, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUSceneGetHiddenEntities(SUSceneRef scene, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEntityRef[]")] SUEntityRef* entities, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4075,11 +4012,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetSketchAxesDisplayed(SUSceneRef scene, [NativeTypeName("bool *")] bool* displayed);
+        public static extern SUResult SUSceneGetSketchAxesDisplayed(SUSceneRef scene, bool* displayed);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetPhotoMatchImageDisplayed(SUSceneRef scene, [NativeTypeName("bool *")] bool* displayed);
+        public static extern SUResult SUSceneGetPhotoMatchImageDisplayed(SUSceneRef scene, bool* displayed);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4087,7 +4024,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetStyle(SUSceneRef scene, [NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUSceneGetStyle(SUSceneRef scene, SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4103,11 +4040,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSceneGetDrawingElementHidden(SUSceneRef scene, SUDrawingElementRef drawing_element, [NativeTypeName("bool *")] bool* is_hidden);
+        public static extern SUResult SUSceneGetDrawingElementHidden(SUSceneRef scene, SUDrawingElementRef drawing_element, bool* is_hidden);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSchemaGetSchemaType(SUSchemaRef schema_ref, [NativeTypeName("const char *")] sbyte* schema_type_name, [NativeTypeName("SUSchemaTypeRef *")] SUSchemaTypeRef* schema_type_ref);
+        public static extern SUResult SUSchemaGetSchemaType(SUSchemaRef schema_ref, [NativeTypeName("const char *")] sbyte* schema_type_name, SUSchemaTypeRef* schema_type_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUSectionPlaneToEntity(SUSectionPlaneRef sectionPlane);
@@ -4123,11 +4060,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSectionPlaneCreate([NativeTypeName("SUSectionPlaneRef *")] SUSectionPlaneRef* sectionPlane);
+        public static extern SUResult SUSectionPlaneCreate(SUSectionPlaneRef* sectionPlane);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSectionPlaneRelease([NativeTypeName("SUSectionPlaneRef *")] SUSectionPlaneRef* sectionPlane);
+        public static extern SUResult SUSectionPlaneRelease(SUSectionPlaneRef* sectionPlane);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4139,11 +4076,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSectionPlaneIsActive(SUSectionPlaneRef sectionPlane, [NativeTypeName("bool *")] bool* is_active);
+        public static extern SUResult SUSectionPlaneIsActive(SUSectionPlaneRef sectionPlane, bool* is_active);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSectionPlaneGetName(SUSectionPlaneRef sectionPlane, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUSectionPlaneGetName(SUSectionPlaneRef sectionPlane, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4151,7 +4088,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSectionPlaneGetSymbol(SUSectionPlaneRef sectionPlane, [NativeTypeName("SUStringRef *")] SUStringRef* symbol);
+        public static extern SUResult SUSectionPlaneGetSymbol(SUSectionPlaneRef sectionPlane, SUStringRef* symbol);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4159,15 +4096,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSelectionAdd(SUSelectionRef selection, [NativeTypeName("size_t")] nuint num_elements, [NativeTypeName("const SUDrawingElementRef []")] SUDrawingElementRef* elements);
+        public static extern SUResult SUSelectionAdd(SUSelectionRef selection, [NativeTypeName("size_t")] nuint num_elements, [NativeTypeName("const SUDrawingElementRef[]")] SUDrawingElementRef* elements);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSelectionRemove(SUSelectionRef selection, [NativeTypeName("size_t")] nuint num_elements, [NativeTypeName("const SUDrawingElementRef []")] SUDrawingElementRef* elements);
+        public static extern SUResult SUSelectionRemove(SUSelectionRef selection, [NativeTypeName("size_t")] nuint num_elements, [NativeTypeName("const SUDrawingElementRef[]")] SUDrawingElementRef* elements);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSelectionToggle(SUSelectionRef selection, [NativeTypeName("size_t")] nuint num_elements, [NativeTypeName("const SUDrawingElementRef []")] SUDrawingElementRef* elements);
+        public static extern SUResult SUSelectionToggle(SUSelectionRef selection, [NativeTypeName("size_t")] nuint num_elements, [NativeTypeName("const SUDrawingElementRef[]")] SUDrawingElementRef* elements);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4183,11 +4120,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSelectionGetEntityList(SUSelectionRef selection, [NativeTypeName("SUEntityListRef *")] SUEntityListRef* entity_list);
+        public static extern SUResult SUSelectionGetEntityList(SUSelectionRef selection, SUEntityListRef* entity_list);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSelectionIsType(SUSelectionRef selection, [NativeTypeName("enum SUSelectionType")] SUSelectionType type, [NativeTypeName("bool *")] bool* is_type);
+        public static extern SUResult SUSelectionIsType(SUSelectionRef selection, [NativeTypeName("enum SUSelectionType")] SUSelectionType type, bool* is_type);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4195,11 +4132,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUShadowInfoGetKeys(SUShadowInfoRef shadow_info, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef []")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUShadowInfoGetKeys(SUShadowInfoRef shadow_info, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStringRef[]")] SUStringRef* keys, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUShadowInfoGetValue(SUShadowInfoRef shadow_info, [NativeTypeName("const char *")] sbyte* key, [NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* value_out);
+        public static extern SUResult SUShadowInfoGetValue(SUShadowInfoRef shadow_info, [NativeTypeName("const char *")] sbyte* key, SUTypedValueRef* value_out);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4207,19 +4144,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUSkpReadGuid([NativeTypeName("const char *")] sbyte* file_path, [NativeTypeName("SUStringRef *")] SUStringRef* guid);
+        public static extern SUResult SUSkpReadGuid([NativeTypeName("const char *")] sbyte* file_path, SUStringRef* guid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleCreate([NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStyleCreate(SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleCreateFromFile([NativeTypeName("SUStyleRef *")] SUStyleRef* style, [NativeTypeName("const char *")] sbyte* path);
+        public static extern SUResult SUStyleCreateFromFile(SUStyleRef* style, [NativeTypeName("const char *")] sbyte* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleRelease([NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStyleRelease(SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUStyleToEntity(SUStyleRef style);
@@ -4233,11 +4170,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetName(SUStyleRef style, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUStyleGetName(SUStyleRef style, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetDisplayName(SUStyleRef style, [NativeTypeName("SUStringRef *")] SUStringRef* name);
+        public static extern SUResult SUStyleGetDisplayName(SUStyleRef style, SUStringRef* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4245,19 +4182,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetDescription(SUStyleRef style, [NativeTypeName("SUStringRef *")] SUStringRef* description);
+        public static extern SUResult SUStyleGetDescription(SUStyleRef style, SUStringRef* description);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetPath(SUStyleRef style, [NativeTypeName("SUStringRef *")] SUStringRef* path);
+        public static extern SUResult SUStyleGetPath(SUStyleRef style, SUStringRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetGuid(SUStyleRef style, [NativeTypeName("SUStringRef *")] SUStringRef* guid);
+        public static extern SUResult SUStyleGetGuid(SUStyleRef style, SUStringRef* guid);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetDisplaysWatermark(SUStyleRef style, [NativeTypeName("bool *")] bool* shows_mark);
+        public static extern SUResult SUStyleGetDisplaysWatermark(SUStyleRef style, bool* shows_mark);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4269,11 +4206,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetProperty(SUStyleRef style, [NativeTypeName("enum SUStylePropertyType")] SUStylePropertyType type, [NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* value);
+        public static extern SUResult SUStyleGetProperty(SUStyleRef style, [NativeTypeName("enum SUStylePropertyType")] SUStylePropertyType type, SUTypedValueRef* value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStyleGetThumbnail(SUStyleRef style, [NativeTypeName("SUImageRepRef *")] SUImageRepRef* image);
+        public static extern SUResult SUStyleGetThumbnail(SUStyleRef style, SUImageRepRef* image);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4285,27 +4222,27 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesGetStyles(SUStylesRef styles, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStyleRef []")] SUStyleRef* style_array, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUStylesGetStyles(SUStylesRef styles, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUStyleRef[]")] SUStyleRef* style_array, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesGetActiveStyle(SUStylesRef styles, [NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStylesGetActiveStyle(SUStylesRef styles, SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesGetSelectedStyle(SUStylesRef styles, [NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStylesGetSelectedStyle(SUStylesRef styles, SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesGetStyleByGuid(SUStylesRef styles, [NativeTypeName("const char *")] sbyte* guid, [NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStylesGetStyleByGuid(SUStylesRef styles, [NativeTypeName("const char *")] sbyte* guid, SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesGetStyleByPath(SUStylesRef styles, [NativeTypeName("const char *")] sbyte* path, [NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStylesGetStyleByPath(SUStylesRef styles, [NativeTypeName("const char *")] sbyte* path, SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesGetActiveStyleChanged(SUStylesRef styles, [NativeTypeName("bool *")] bool* changed);
+        public static extern SUResult SUStylesGetActiveStyleChanged(SUStylesRef styles, bool* changed);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4317,7 +4254,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStylesRemoveStyle(SUStylesRef styles, [NativeTypeName("SUStyleRef *")] SUStyleRef* style);
+        public static extern SUResult SUStylesRemoveStyle(SUStylesRef styles, SUStyleRef* style);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUTextToEntity(SUTextRef text);
@@ -4333,11 +4270,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextCreate([NativeTypeName("SUTextRef *")] SUTextRef* text);
+        public static extern SUResult SUTextCreate(SUTextRef* text);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextRelease([NativeTypeName("SUTextRef *")] SUTextRef* text);
+        public static extern SUResult SUTextRelease(SUTextRef* text);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4345,7 +4282,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextGetString(SUTextRef text, [NativeTypeName("SUStringRef *")] SUStringRef* @string);
+        public static extern SUResult SUTextGetString(SUTextRef text, SUStringRef* @string);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4353,7 +4290,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextGetFont(SUTextRef text, [NativeTypeName("SUFontRef *")] SUFontRef* font);
+        public static extern SUResult SUTextGetFont(SUTextRef text, SUFontRef* font);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4377,7 +4314,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextGetPoint(SUTextRef text, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* point, [NativeTypeName("SUInstancePathRef *")] SUInstancePathRef* path);
+        public static extern SUResult SUTextGetPoint(SUTextRef text, [NativeTypeName("struct SUPoint3D *")] SUPoint3D* point, SUInstancePathRef* path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4393,7 +4330,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextGetColor(SUTextRef text, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUTextGetColor(SUTextRef text, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4401,7 +4338,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextGetScreenPosition(SUTextRef text, [NativeTypeName("double *")] double* percent_x, [NativeTypeName("double *")] double* percent_y);
+        public static extern SUResult SUTextGetScreenPosition(SUTextRef text, double* percent_x, double* percent_y);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern SUEntityRef SUTextureToEntity(SUTextureRef texture);
@@ -4411,23 +4348,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureCreateFromImageData([NativeTypeName("SUTextureRef *")] SUTextureRef* texture, [NativeTypeName("size_t")] nuint width, [NativeTypeName("size_t")] nuint height, [NativeTypeName("size_t")] nuint bits_per_pixel, [NativeTypeName("const SUByte []")] byte* pixel_data);
+        public static extern SUResult SUTextureCreateFromImageData(SUTextureRef* texture, [NativeTypeName("size_t")] nuint width, [NativeTypeName("size_t")] nuint height, [NativeTypeName("size_t")] nuint bits_per_pixel, [NativeTypeName("const SUByte[]")] byte* pixel_data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureCreateFromImageRep([NativeTypeName("SUTextureRef *")] SUTextureRef* texture, SUImageRepRef image);
+        public static extern SUResult SUTextureCreateFromImageRep(SUTextureRef* texture, SUImageRepRef image);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureCreateFromFile([NativeTypeName("SUTextureRef *")] SUTextureRef* texture, [NativeTypeName("const char *")] sbyte* file_path, double s_scale, double t_scale);
+        public static extern SUResult SUTextureCreateFromFile(SUTextureRef* texture, [NativeTypeName("const char *")] sbyte* file_path, double s_scale, double t_scale);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureRelease([NativeTypeName("SUTextureRef *")] SUTextureRef* texture);
+        public static extern SUResult SUTextureRelease(SUTextureRef* texture);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetDimensions(SUTextureRef texture, [NativeTypeName("size_t *")] nuint* width, [NativeTypeName("size_t *")] nuint* height, [NativeTypeName("double *")] double* s_scale, [NativeTypeName("double *")] double* t_scale);
+        public static extern SUResult SUTextureGetDimensions(SUTextureRef texture, [NativeTypeName("size_t *")] nuint* width, [NativeTypeName("size_t *")] nuint* height, double* s_scale, double* t_scale);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4435,11 +4372,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetImageData(SUTextureRef texture, [NativeTypeName("size_t")] nuint data_size, [NativeTypeName("SUByte []")] byte* pixel_data);
+        public static extern SUResult SUTextureGetImageData(SUTextureRef texture, [NativeTypeName("size_t")] nuint data_size, [NativeTypeName("SUByte[]")] byte* pixel_data);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetImageRep(SUTextureRef texture, [NativeTypeName("SUImageRepRef *")] SUImageRepRef* image);
+        public static extern SUResult SUTextureGetImageRep(SUTextureRef texture, SUImageRepRef* image);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4451,19 +4388,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetFileName(SUTextureRef texture, [NativeTypeName("SUStringRef *")] SUStringRef* file_name);
+        public static extern SUResult SUTextureGetFileName(SUTextureRef texture, SUStringRef* file_name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetUseAlphaChannel(SUTextureRef texture, [NativeTypeName("bool *")] bool* alpha_channel_used);
+        public static extern SUResult SUTextureGetUseAlphaChannel(SUTextureRef texture, bool* alpha_channel_used);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetAverageColor(SUTextureRef texture, [NativeTypeName("SUColor *")] SUColor* color_val);
+        public static extern SUResult SUTextureGetAverageColor(SUTextureRef texture, SUColor* color_val);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureGetColorizedImageRep(SUTextureRef texture, [NativeTypeName("SUImageRepRef *")] SUImageRepRef* image_rep);
+        public static extern SUResult SUTextureGetColorizedImageRep(SUTextureRef texture, SUImageRepRef* image_rep);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4471,11 +4408,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterCreate([NativeTypeName("SUTextureWriterRef *")] SUTextureWriterRef* writer);
+        public static extern SUResult SUTextureWriterCreate(SUTextureWriterRef* writer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterRelease([NativeTypeName("SUTextureWriterRef *")] SUTextureWriterRef* writer);
+        public static extern SUResult SUTextureWriterRelease(SUTextureWriterRef* writer);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4495,7 +4432,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterGetImageRep(SUTextureWriterRef writer, [NativeTypeName("long")] int texture_id, [NativeTypeName("SUImageRepRef *")] SUImageRepRef* image);
+        public static extern SUResult SUTextureWriterGetImageRep(SUTextureWriterRef writer, [NativeTypeName("long")] int texture_id, SUImageRepRef* image);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4503,19 +4440,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterIsTextureAffine(SUTextureWriterRef writer, [NativeTypeName("long")] int texture_id, [NativeTypeName("bool *")] bool* is_affine);
+        public static extern SUResult SUTextureWriterIsTextureAffine(SUTextureWriterRef writer, [NativeTypeName("long")] int texture_id, bool* is_affine);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterGetTextureFilePath(SUTextureWriterRef writer, [NativeTypeName("long")] int texture_id, [NativeTypeName("SUStringRef *")] SUStringRef* file_path);
+        public static extern SUResult SUTextureWriterGetTextureFilePath(SUTextureWriterRef writer, [NativeTypeName("long")] int texture_id, SUStringRef* file_path);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterGetFrontFaceUVCoords(SUTextureWriterRef writer, SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const struct SUPoint3D []")] SUPoint3D* points, [NativeTypeName("struct SUPoint2D []")] SUPoint2D* uv_coords);
+        public static extern SUResult SUTextureWriterGetFrontFaceUVCoords(SUTextureWriterRef writer, SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const struct SUPoint3D[]")] SUPoint3D* points, [NativeTypeName("struct SUPoint2D[]")] SUPoint2D* uv_coords);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTextureWriterGetBackFaceUVCoords(SUTextureWriterRef writer, SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const struct SUPoint3D []")] SUPoint3D* points, [NativeTypeName("struct SUPoint2D []")] SUPoint2D* uv_coords);
+        public static extern SUResult SUTextureWriterGetBackFaceUVCoords(SUTextureWriterRef writer, SUFaceRef face, [NativeTypeName("size_t")] nuint len, [NativeTypeName("const struct SUPoint3D[]")] SUPoint3D* points, [NativeTypeName("struct SUPoint2D[]")] SUPoint2D* uv_coords);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4527,11 +4464,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueCreate([NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* typed_value);
+        public static extern SUResult SUTypedValueCreate(SUTypedValueRef* typed_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueRelease([NativeTypeName("SUTypedValueRef *")] SUTypedValueRef* typed_value);
+        public static extern SUResult SUTypedValueRelease(SUTypedValueRef* typed_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4563,7 +4500,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetFloat(SUTypedValueRef typed_value, [NativeTypeName("float *")] float* float_value);
+        public static extern SUResult SUTypedValueGetFloat(SUTypedValueRef typed_value, float* float_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4571,7 +4508,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetDouble(SUTypedValueRef typed_value, [NativeTypeName("double *")] double* double_value);
+        public static extern SUResult SUTypedValueGetDouble(SUTypedValueRef typed_value, double* double_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4579,7 +4516,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetBool(SUTypedValueRef typed_value, [NativeTypeName("bool *")] bool* bool_value);
+        public static extern SUResult SUTypedValueGetBool(SUTypedValueRef typed_value, bool* bool_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4587,7 +4524,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetColor(SUTypedValueRef typed_value, [NativeTypeName("SUColor *")] SUColor* color);
+        public static extern SUResult SUTypedValueGetColor(SUTypedValueRef typed_value, SUColor* color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4603,7 +4540,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetString(SUTypedValueRef typed_value, [NativeTypeName("SUStringRef *")] SUStringRef* string_value);
+        public static extern SUResult SUTypedValueGetString(SUTypedValueRef typed_value, SUStringRef* string_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4611,23 +4548,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetVector3d(SUTypedValueRef typed_value, [NativeTypeName("double [3]")] double* vector3d_value);
+        public static extern SUResult SUTypedValueGetVector3d(SUTypedValueRef typed_value, [NativeTypeName("double[3]")] double* vector3d_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueSetVector3d(SUTypedValueRef typed_value, [NativeTypeName("const double [3]")] double* vector3d_value);
+        public static extern SUResult SUTypedValueSetVector3d(SUTypedValueRef typed_value, [NativeTypeName("const double[3]")] double* vector3d_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueSetUnitVector3d(SUTypedValueRef typed_value, [NativeTypeName("const double [3]")] double* vector3d_value);
+        public static extern SUResult SUTypedValueSetUnitVector3d(SUTypedValueRef typed_value, [NativeTypeName("const double[3]")] double* vector3d_value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueGetArrayItems(SUTypedValueRef typed_value, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUTypedValueRef []")] SUTypedValueRef* values, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUTypedValueGetArrayItems(SUTypedValueRef typed_value, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUTypedValueRef[]")] SUTypedValueRef* values, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUTypedValueSetArrayItems(SUTypedValueRef typed_value, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUTypedValueRef []")] SUTypedValueRef* values);
+        public static extern SUResult SUTypedValueSetArrayItems(SUTypedValueRef typed_value, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUTypedValueRef[]")] SUTypedValueRef* values);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4635,7 +4572,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUUVHelperRelease([NativeTypeName("SUUVHelperRef *")] SUUVHelperRef* uvhelper);
+        public static extern SUResult SUUVHelperRelease(SUUVHelperRef* uvhelper);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4665,7 +4602,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVertexGetEdges(SUVertexRef vertex, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef []")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUVertexGetEdges(SUVertexRef vertex, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUEdgeRef[]")] SUEdgeRef* edges, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4673,7 +4610,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVertexGetFaces(SUVertexRef vertex, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFaceRef []")] SUFaceRef* faces, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUVertexGetFaces(SUVertexRef vertex, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SUFaceRef[]")] SUFaceRef* faces, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4681,7 +4618,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUVertexGetLoops(SUVertexRef vertex, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULoopRef []")] SULoopRef* loops, [NativeTypeName("size_t *")] nuint* count);
+        public static extern SUResult SUVertexGetLoops(SUVertexRef vertex, [NativeTypeName("size_t")] nuint len, [NativeTypeName("SULoopRef[]")] SULoopRef* loops, [NativeTypeName("size_t *")] nuint* count);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         public static extern double SUDegreesToRadians(double value);
@@ -4711,7 +4648,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUColorBlend([NativeTypeName("const SUColor")] SUColor color1, [NativeTypeName("const SUColor")] SUColor color2, [NativeTypeName("const double")] double weight, [NativeTypeName("SUColor *")] SUColor* blended_color);
+        public static extern SUResult SUColorBlend([NativeTypeName("const SUColor")] SUColor color1, [NativeTypeName("const SUColor")] SUColor color2, [NativeTypeName("const double")] double weight, SUColor* blended_color);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4719,15 +4656,15 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUColorGetNames([NativeTypeName("SUStringRef []")] SUStringRef* names, [NativeTypeName("const size_t")] nuint size);
+        public static extern SUResult SUColorGetNames([NativeTypeName("SUStringRef[]")] SUStringRef* names, [NativeTypeName("const size_t")] nuint size);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUColorSetByName([NativeTypeName("SUColor *")] SUColor* color, [NativeTypeName("const char *")] sbyte* name);
+        public static extern SUResult SUColorSetByName(SUColor* color, [NativeTypeName("const char *")] sbyte* name);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUColorSetByValue([NativeTypeName("SUColor *")] SUColor* color, [NativeTypeName("const size_t")] nuint value);
+        public static extern SUResult SUColorSetByValue(SUColor* color, [NativeTypeName("const size_t")] nuint value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4744,11 +4681,11 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterCreate([NativeTypeName("SULengthFormatterRef *")] SULengthFormatterRef* formatter);
+        public static extern SUResult SULengthFormatterCreate(SULengthFormatterRef* formatter);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterRelease([NativeTypeName("SULengthFormatterRef *")] SULengthFormatterRef* formatter);
+        public static extern SUResult SULengthFormatterRelease(SULengthFormatterRef* formatter);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4808,7 +4745,7 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterGetSuppressUnits(SULengthFormatterRef formatter, [NativeTypeName("bool *")] bool* suppress);
+        public static extern SUResult SULengthFormatterGetSuppressUnits(SULengthFormatterRef formatter, bool* suppress);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4816,19 +4753,19 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterGetLengthString(SULengthFormatterRef formatter, double length, [NativeTypeName("bool")] byte strip, [NativeTypeName("SUStringRef *")] SUStringRef* @string);
+        public static extern SUResult SULengthFormatterGetLengthString(SULengthFormatterRef formatter, double length, [NativeTypeName("bool")] byte strip, SUStringRef* @string);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterGetAreaString(SULengthFormatterRef formatter, double area, [NativeTypeName("SUStringRef *")] SUStringRef* @string);
+        public static extern SUResult SULengthFormatterGetAreaString(SULengthFormatterRef formatter, double area, SUStringRef* @string);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterGetVolumeString(SULengthFormatterRef formatter, double volume, [NativeTypeName("SUStringRef *")] SUStringRef* @string);
+        public static extern SUResult SULengthFormatterGetVolumeString(SULengthFormatterRef formatter, double volume, SUStringRef* @string);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterParseString(SULengthFormatterRef formatter, SUStringRef @string, [NativeTypeName("double *")] double* value);
+        public static extern SUResult SULengthFormatterParseString(SULengthFormatterRef formatter, SUStringRef @string, double* value);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4836,23 +4773,23 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SULengthFormatterGetForceInchDisplay(SULengthFormatterRef formatter, [NativeTypeName("bool *")] bool* force_inch);
+        public static extern SUResult SULengthFormatterGetForceInchDisplay(SULengthFormatterRef formatter, bool* force_inch);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStringCreate([NativeTypeName("SUStringRef *")] SUStringRef* out_string_ref);
+        public static extern SUResult SUStringCreate(SUStringRef* out_string_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStringCreateFromUTF8([NativeTypeName("SUStringRef *")] SUStringRef* out_string_ref, [NativeTypeName("const char *")] sbyte* char_array);
+        public static extern SUResult SUStringCreateFromUTF8(SUStringRef* out_string_ref, [NativeTypeName("const char *")] sbyte* char_array);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStringCreateFromUTF16([NativeTypeName("SUStringRef *")] SUStringRef* out_string_ref, [NativeTypeName("const unichar *")] ushort* char_array);
+        public static extern SUResult SUStringCreateFromUTF16(SUStringRef* out_string_ref, [NativeTypeName("const unichar *")] ushort* char_array);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStringRelease([NativeTypeName("SUStringRef *")] SUStringRef* string_ref);
+        public static extern SUResult SUStringRelease(SUStringRef* string_ref);
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
@@ -4888,6 +4825,6 @@ namespace SketchUpSharp
 
         [DllImport("SketchUpAPI", CallingConvention = CallingConvention.Cdecl, ExactSpelling = true)]
         [return: NativeTypeName("enum SUResult")]
-        public static extern SUResult SUStringCompare(SUStringRef a, SUStringRef b, [NativeTypeName("int *")] int* result);
+        public static extern SUResult SUStringCompare(SUStringRef a, SUStringRef b, int* result);
     }
 }
